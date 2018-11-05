@@ -1,0 +1,281 @@
+@import 'common';
+
+.our-service {
+    .page-header {
+        background-image: url(/en/assets/images/ourservice/bg_oursevice_header.jpg);
+    }
+}
+
+.lifecycle {
+    .small-contents {
+        h3 {
+            text-align: center;
+            font-size: 30px;
+            padding-bottom: 80px;
+        }
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    .container {
+        @media(min-width: $lg) {
+            width: 1200px;
+        }
+    }
+    section {
+        .section-header {
+            text-align: center;
+            padding-bottom: 60px;
+            h3 {
+                font-size: 30px;
+                color: #333;
+            }
+        }
+        .link-area {
+            .article-header {
+                ol {
+                    position: relative;
+                    display: table;
+                    width: 100%;
+                    li {
+                        display: table-cell;
+                        width: 1%;
+                        height: 20px;
+                        padding: 0 5px;
+                        p {
+                            position: relative;
+                            width: 158px;
+                            display: block;
+                            font-size: 16px;
+                            padding: 20px;
+                            padding-right: 0;
+                            color: #fff;
+                            line-height: 20px;
+                            background-color: #7d909b;
+                            &:after {
+                                position: absolute;
+                                top: 50%;
+                                right: -22px;
+                                width: 32px;
+                                height: 32px;
+                                display: block;
+                                content: "\E813";
+                                font-size: 16px;
+                                color: #333;
+                                font-family: "fontello";
+                                text-align: center;
+                                line-height: 32px;
+                                margin-top: -16px;
+                                border-radius: 50%;
+                                background-color: #fff;
+                                z-index: 99;
+                            }
+                        }
+                        &:first-child {
+                            padding-left: 0;
+                        }
+                        &:last-child {
+                            padding-right: 0;
+                            p {
+                                &:after {
+                                    display: none;
+                                    content: "";
+                                }
+                            }
+                        }
+                    }
+                    &:after {
+                        position: absolute;
+                        top: 0;
+                        right: 0;
+                        width: 4px;
+                        height: 100%;
+                        content: "";
+                        background-color: #7d909b;
+                    }
+                }
+            }
+            .article-content {
+                position: relative;
+                margin-top: -34px;
+                padding: 79px 0 10px;
+                border: 1px dotted #b5b6b6;
+                border-top: 0;
+                .line {
+                    position: absolute;
+                    top: 0;
+                    display: block;
+                    width: 1px;
+                    border-right: 1px dotted #b5b6b6;
+                    height: 100%;
+                    &:nth-of-type(1) {
+                        left: 162px;
+                    }
+                    &:nth-of-type(2) {
+                        left: 330px;
+                    }
+                    &:nth-of-type(3) {
+                        left: 498px;
+                    }
+                    &:nth-of-type(4) {
+                        right: 501px;
+                    }
+                    &:nth-of-type(5) {
+                        right: 333px;
+                    }
+                    &:nth-of-type(6) {
+                        right: 165px;
+                    }
+                }
+                > div {
+                    padding: 5px 0;
+                    &.space {
+                        margin-top: 27px;
+                        & ~ .space {
+                            margin-top: 0;
+                        }
+                        .list {
+                            text-align: right;
+                        }
+                    }
+                    .list {
+                        font-size: 0;
+                        li {
+                            display: inline-block;
+                            a {
+                                position: relative;
+                                display: block;
+                                z-index: 1;
+                                &.link-3 {
+                                    width: 921px;
+                                }
+                                &.link-5 {
+                                    margin-left: 169px;
+                                }
+                                &.link-7 {
+                                    /*margin-left: 169px;*/
+                                    margin-left: 416px;
+                                }
+                                &.link-8 {
+                                    margin-left: 150px;
+                                }
+                                &.link-9 {
+                                    margin-left: 163px;
+                                }
+                                &.link-10 {
+                                    margin-left: 85px;
+                                }
+                                &.link-11 {
+                                    /*margin-left: 253px;*/
+                                    margin-left: 203px;
+                                }
+                                &.link-12 {
+                                    margin-left: 163px;
+                                }
+                                &.link-13 {
+                                    margin-left: 254px;
+                                }
+                                &.link-14 {
+                                    margin-left: 1px;
+                                }
+                                &.link-15 {
+                                    margin-left: 1px;
+                                }
+                                &.link-16 {
+                                    margin-left: 163px;
+                                }
+                                &.link-17 {
+                                    margin-left: 166px;
+                                }
+                                &.link-18 {
+                                    margin-left: 67px;
+                                }
+                                &.link-19 {
+                                    margin-left: 163px;
+                                }
+                                &.link-20 {
+                                    margin-left: 163px;
+                                }
+                                &.link-21 {
+                                    position: relative;
+                                    top: 27px;
+                                    margin-left: 86px;
+                                }
+                                &.link-22 {
+                                    margin-left: 163px;
+                                }
+                                &.link-23 {
+                                    position: relative;
+                                    top: 27px;
+                                    margin-left: 262px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .summary-list {
+            text-align: right;
+            margin-top: 20px;
+            li {
+                font-size: 14px;
+                color: #666;
+                display: inline-block;
+                margin-left: 20px;
+                span {
+                    position: relative;
+                    top: 2px;
+                    display: inline-block;
+                    width: 15px;
+                    height: 15px;
+                    margin-right: 10px;
+                    &.orange {
+                        background-color: #f36f21;
+                    }
+                    &.blue {
+                        background-color: #33729e;
+                    }
+                    &.gray {
+                        background-color: #6e6e6e;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

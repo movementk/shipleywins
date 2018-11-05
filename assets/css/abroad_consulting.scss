@@ -1,0 +1,751 @@
+@import 'common';
+
+
+.abroad-consulting {
+    .page-header {
+        background-image: url(/assets/images/abroad_consulting/bg_abroad_consulting_header.jpg);
+    }
+    #content {
+        padding: 60px 0 105px;
+        @media(min-width: $sm) {
+            padding: 90px 0 160px;
+        }
+        @media(min-width: $md) {
+            padding: 80px 0 145px;
+        }
+    }
+}
+
+
+/*.reinforcement-capacity {
+    background-repeat: no-repeat;
+    background-image: url(/assets/images/abroad_consulting/icon_img02.png) !important;
+}*/
+
+// 공통
+.note {
+    font-size: 15px;
+    color: #666;
+    line-height: 24px;
+    margin-top: 70px;
+    i {
+        font-style: normal;
+        color: #d51d1d;
+    }
+    @media(min-width: $sm) {
+         margin-top: 65px;
+    }
+}
+
+.sub-title {
+    position: relative;
+    font-size: 22px;
+    color: #333;
+//    padding-left: 15px;
+    margin: 50px 0 30px;
+//    &:before {
+//        position: absolute;
+//        top: 50%;
+//        left: 0;
+//        width: 2px;
+//        height: 20px;
+//        margin-top: -10px;
+//        display: block;
+//        content: "";
+//        background-color: #fba574;
+//    }
+    @media(min-width: $sm) {
+        font-size: 30px;
+//        &:before {
+//            width: 4px;
+//            height: 30px;
+//            margin-top: -15px;
+//        }
+    }
+}
+
+article {
+    .article-header {
+        padding: 65px 0 40px;
+        h4 {
+            position: relative;
+            font-size: 22px;
+            color: #333;
+            padding-left: 15px;
+            &:before {
+                position: absolute;
+                top: 50%;
+                left: 0;
+                width: 2px;
+                height: 20px;
+                margin-top: -10px;
+                display: block;
+                content: "";
+                background-color: #fba574;
+            }
+        }
+        p {
+            font-size: 14px;
+            color: #666;
+            line-height: 25px;
+            margin-top: 20px;
+        }
+    }
+    &.process {
+        .dot-list {
+            display: inline-block;
+            text-align: left;
+            margin: 0 auto;
+            margin-top: 30px;
+        }
+    }
+    @media(min-width: $sm) {
+        &.process {
+            .article-header {
+                .dot-list {
+                    li {
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+        .article-header {
+            padding: 100px 0 50px;
+            h4 {
+                font-size: 30px;
+                &:before {
+                    width: 4px;
+                    height: 30px;
+                    margin-top: -15px;
+                }
+            }
+            p {
+                font-size: 16px;
+                margin-top: 35px;
+            }
+        }
+    }
+}
+
+.wt-box {
+    padding: 60px 10px 65px;
+    background-color: #fff;
+    @media(min-width: $sm) {
+        padding: 60px 40px 70px;
+    }
+    @media(min-width: $md) {
+        padding: 80px 85px 85px;
+    }
+}
+
+.dot-list {
+    > li {
+        position: relative;
+        font-size: 13px;
+        color: #666;
+        line-height: 24px;
+        padding-left: 13px;
+        &:before {
+            position: absolute;
+            top: 0;
+            left: 0;
+            font-size: 15px;
+            content: "\E805";
+            font-family: "fontello";
+        }
+    }
+    @media(min-width: $sm) {
+        > li {
+            font-size: 15px;
+            line-height: 26px;
+        }
+    }
+}
+
+
+// 해외 제안서 개발
+.proposal {
+    section {
+        .section-header {
+            text-align: center;
+            h3 {
+                img {
+                    display: block;
+                    margin: 0 auto;
+                }
+            }
+            .summary {
+                font-size: 14px;
+                color: #666;
+                line-height: 26px;
+                text-align: left;
+                margin-top: 45px;
+            }
+        }
+        .section-content {
+            article {
+                &.process {
+                    .article-content {
+                        figure {
+                            .img-responsive {
+                                margin: 0 auto;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        @media(min-width: $sm) {
+            .section-header {
+                .summary {
+                    font-size: 16px;
+                    line-height: 32px;
+                    margin-top: 70px;
+                }
+            }
+        }
+        @media(min-width: $md) {
+            .section-header {
+                .summary {
+                    margin-top: 60px;
+                }
+            }
+        }
+    }
+}
+
+// 해외 경쟁 pt 컨설팅
+.competition-pt {
+    padding-top: 23px !important;
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        padding-top: 70px !important;
+        .sub-nav {
+            height: 60px;
+            .dropdown-menu {
+                top: 0;
+                li {
+                    width: 50%;
+                    a {
+                        border-bottom: 1px solid #e0e0e0;
+                    }
+                    &:nth-of-type(2) {
+                        a {
+                            border-right: 1px solid #e0e0e0;
+                        }
+                    }
+                }
+            }
+        }
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+    }
+    @media(min-width: $md) {
+        padding-top: 110px !important;
+    }
+}
+
+
+// 투자 유치 PT 컨설팅
+.invest-pt {
+    padding-top: 23px !important;
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        padding-top: 70px !important;
+        .sub-nav {
+            height: 60px;
+            .dropdown-menu {
+                top: 0;
+                li {
+                    width: 50%;
+                    a {
+                        border-bottom: 1px solid #e0e0e0;
+                    }
+                    &:nth-of-type(2) {
+                        a {
+                            border-right: 1px solid #e0e0e0;
+                        }
+                    }
+                }
+            }
+        }
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+    }
+    @media(min-width: $md) {
+        padding-top: 110px !important;
+    }
+}
+
+
+// 해외 특화 sub-nav 공통
+.specialization {
+    padding-top: 23px !important;
+    @media(min-width: $sm) {
+        padding-top: 70px !important;
+        .sub-nav {
+            height: 60px;
+            .dropdown-menu {
+                top: 0;
+                li {
+                    width: 20%;
+                    a {
+                        border-bottom: 1px solid #e0e0e0;
+                    }
+                    &:nth-of-type(5) {
+                        a {
+                            border-right: 1px solid #e0e0e0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $md) {
+        padding-top: 110px !important;
+        .sub-nav {
+            .dropdown-menu {
+                .space {
+                    a {
+                        padding: 20px 0;
+                    }
+                }
+            }
+        }
+    }
+}
+
+// 시장진출전략 컨설팅
+.strategy {
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+    }
+}
+
+// 월드클래스 300
+.world-class {
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .article-header {
+        p {
+            font-size: 14px;
+            color: #fff;
+            line-height: 22px;
+            margin-top: 25px;
+        }
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+        .article-header {
+            p {
+                font-size: 16px;
+                margin-top: 30px;
+            }
+        }
+    }
+}
+
+// 역량 기술서 개발
+.competency {
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .capability-statement {
+        margin-top: 40px;
+        h3 {
+            font-size: 24px;
+            color: #333;
+            line-height: 36px;
+        }
+        .dot-list {
+            margin-top: 20px;
+            li {
+                font-size: 14px;
+                color: #666;
+                line-height: 28px;
+            }
+        }
+        .table-responsive, .table-wrap {
+            margin-top: 40px;
+            border: 0;
+            border-top: 1px solid #030303;
+            border-bottom: 1px solid #030303;
+            .table {
+                border: 0;
+                margin-bottom: 0;
+                thead {
+                    tr {
+                        th {
+                            font-size: 16px;
+                            color: #000;
+                            padding: 18px 20px;
+                            font-weight: bold;
+                            text-align: center;
+                            border: 0;
+                            border-right: 1px solid #e5e5e5;
+                            &:nth-of-type(2) {
+                                background-color: #f2f7fa;
+                            }
+                            &:last-child {
+                                border-right: 0;
+                            }
+                        }
+                    }
+                }
+                tbody {
+                    tr {
+                        td {
+                            font-size: 15px;
+                            color: #666;
+                            padding: 20px 40px;
+                            line-height: 25px;
+                            vertical-align: middle;
+                            border: 0;
+                            border-top: 1px solid #e5e5e5;
+                            border-right: 1px solid #e5e5e5;
+                            .decimal-list {
+                                display: inline-block;
+                                margin: 0 auto;
+                                text-align: left;
+                                li {
+                                    list-style: decimal;
+                                    list-style-position: outside;
+                                }
+                            }
+                            &:nth-of-type(2) {
+                                background-color: #f2f7fa;
+                            }
+                            &:first-child {
+                                text-align: center;
+                                font-size: 16px;
+                                color: #000;
+                                font-weight: bold;
+                            }
+                            &:last-child {
+                                border-right: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .table-wrap {
+            @media(min-width: $sm) {
+                width: 710px;
+            }
+            .table {
+                thead {
+                    tr {
+                        th {
+                            font-size: 13px;
+                            padding: 10px 0;
+                            @media(min-width: $sm) {
+                                font-size: 15px;
+                                line-height: 25px;
+                                padding: 18px 20px;
+                            }
+                        }
+                    }
+                }
+                tbody {
+                    tr {
+                        td {
+                            font-size: 13px;
+                            padding: 15px 10px;
+                            word-break: keep-all;
+                            &:nth-of-type(1) {
+                                font-size: 13px;
+                                padding-left: 10px;
+                                padding-right: 10px;
+                                word-break: keep-all;
+                                @media(min-width: $sm) {
+                                    font-size: 16px;
+                                    padding: 20px 40px;
+                                }
+                            }
+                            @media(min-width: $sm) {
+                                font-size: 15px;
+                                padding: 20px 40px;
+                                line-height: 25px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+        .capability-statement {
+            margin-top: 50px;
+            .table-responsive {
+                margin-top: 70px;
+            }
+        }
+    }
+    @media(min-width: $md) {
+        .capability-statement {
+            background-size: 169px auto;
+            background-position: 100% 0;
+            .table-responsive {
+                margin-top: 50px;
+            }
+        }
+    }
+}
+
+
+// 바이어 발굴
+.bio {
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .btn-area {
+        margin-top: 60px;
+        text-align: center;
+        p {
+            .btn-blue {
+                width: 300px;
+                font-size: 16px;
+                line-height: 50px;
+                color: #fff;
+                background-color: #005f98;
+            }
+        }
+    }
+    .article-header {
+        p {
+            font-size: 14px;
+            color: #fff;
+            line-height: 22px;
+            margin-top: 25px;
+        }
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+        .btn-area {
+            text-align: left;
+            margin-top: 50px;
+            .btn-blue {
+                width: 270px;
+            }
+        }
+        .article-header {
+            p {
+                font-size: 16px;
+                margin-top: 30px;
+            }
+        }
+    }
+}
+
+/* Modal popup sampling */
+.sampling {
+    .modal-dialog {
+        margin-top: 150px;
+        .modal-content {
+            box-shadow: none;
+            border-radius: 0;
+            .close {
+                position: absolute;
+                top: -28px;
+                right: 0;
+                display: block;
+                font-size: 30px;
+                line-height: 18px;
+                color: #fff;
+                opacity: 1 !important;
+                z-index: 1001;
+            }
+            .modal-body {
+                padding: 10px;
+                figure {
+                    .img-responsive {
+                        margin: 0 auto;
+                    }
+                }
+            }
+        }
+    }
+}
+
+// 글로벌 세일즈 패키지
+.global-package {
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+    }
+}
+
+// MDB Packages
+.mdb-package {
+    .summary {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    .process {
+        .article-content {
+            .details {
+                margin-top: 45px;
+                h5 {
+                    font-size: 18px;
+                    color: #333;
+                    margin-bottom: 25px;
+                }
+                .dot-list {
+                    margin: 0;
+                    li {
+                        font-size: 14px;
+                        line-height: 22px;
+                        dl {
+                            display: block;
+                            margin: 20px 0 30px;
+                            opacity: .6;
+                            dt {
+                                font-size: 13px;
+                                color: #666;
+                                line-height: 25px;
+                                font-weight: 400;
+                            }
+                            dd {
+                                font-size: 13px;
+                                color: #666;
+                                line-height: 25px;
+                                font-weight: 400;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .article-content {
+        figure {
+            .img-responsive {
+                margin: 0 auto;
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .summary {
+            font-size: 16px;
+            line-height: 32px;
+        }
+        .process {
+            .article-content {
+                .details {
+                    margin-top: 70px;
+                    .dot-list {
+                        li {
+                            font-size: 16px;
+                            line-height: 25px;
+                            dl {
+                                margin: 15px 0 35px;
+                                opacity: .6;
+                                dt {
+                                    font-size: 14px;
+                                }
+                                dd {
+                                    font-size: 14px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1115 @@
+@import 'common';
+
+.expert-training {
+    .page-header {
+        background-image: url(/en/assets/images/expert_training/bg_expert_training_header.jpg);
+    }
+    #content {
+        padding: 60px 0 105px;
+        @media(min-width: $sm) {
+            padding: 90px 0 160px;
+        }
+        @media(min-width: $md) {
+            padding: 80px 0 145px;
+        }
+    }
+}
+
+// 공통
+.page-summary {
+    p {
+        font-size: 14px;
+        color: #666;
+        line-height: 26px;
+    }
+    @media(min-width: $sm) {
+        p {
+            font-size: 16px;
+            line-height: 28px;
+        }
+    }
+}
+
+article {
+    .article-header {
+        padding: 65px 0 40px;
+        h4 {
+            position: relative;
+            font-size: 22px;
+            color: #333;
+            padding-left: 15px;
+            &:before {
+                position: absolute;
+                top: 50%;
+                left: 0;
+                width: 2px;
+                height: 20px;
+                margin-top: -10px;
+                display: block;
+                content: "";
+                background-color: #fba574;
+            }
+            small {
+                font-size: 14px;
+            }
+        }
+        p {
+            font-size: 14px;
+            color: #666;
+            line-height: 25px;
+            margin-top: 20px;
+        }
+    }
+    &.process {
+        .dot-list {
+            display: inline-block;
+            text-align: left;
+            margin: 0 auto;
+            margin-top: 30px;
+        }
+    }
+    @media(min-width: $sm) {
+        .article-header {
+            padding: 100px 0 50px;
+            h4 {
+                font-size: 30px;
+                &:before {
+                    width: 4px;
+                    height: 30px;
+                    margin-top: -15px;
+                }
+                small {
+                    font-size: 18px;
+                }
+            }
+            p {
+                font-size: 16px;
+                margin-top: 35px;
+            }
+        }
+    }
+}
+
+.dot-list {
+    > li {
+        position: relative;
+        font-size: 13px;
+        color: #666;
+        line-height: 24px;
+        padding-left: 13px;
+        &:before {
+            position: absolute;
+            top: 0;
+            left: 0;
+            font-size: 15px;
+            content: "\E805";
+            font-family: "fontello";
+        }
+    }
+    @media(min-width: $sm) {
+        > li {
+            font-size: 15px;
+            line-height: 26px;
+        }
+    }
+}
+
+
+// b2b 세일즈 과정
+.sales {
+    .expectation {
+        .article-content {
+            ol {
+                li {
+                    & ~ li  {
+                        > div {
+                            margin-top: 10px;
+                        }
+                    }
+                    > div {
+                        width: 100%;
+                        height: 180px;
+                        padding: 30px 40px 0; 
+                        margin: 0 auto;
+                        border: 5px solid #999;
+                        span {
+                            font-size: 24px;
+                            display: block;
+                            color: #333;
+                            @include lato();
+                            margin-bottom: 10px;
+                        }
+                        p {
+                            font-size: 16px;
+                            color: #333;
+                            line-height: 26px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .expectation {
+            .article-content {
+                ol {
+                    li {
+                        & ~ li  {
+                            > div {
+                                margin-top: 20px;
+                            }
+                        }
+                        &:nth-of-type(2) {
+                            > div {
+                                margin-top: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .expectation-list {
+            font-size: 0;
+            > li {
+                display: inline-block;
+                width: 50%;
+                vertical-align: top;
+                & ~ li {
+                    margin-top: 20px;
+                }
+                &:nth-of-type(2n + 1) {
+                    padding-right: 10px;
+                }
+                &:nth-of-type(2n + 2) {
+                    padding-left: 10px;
+                }
+                &:nth-of-type(2) {
+                    margin-top: 0;
+                }
+                &:nth-of-type(5) {
+                    width: 100%;
+                    padding: 0;
+                }
+            }
+        }
+    }
+    @media(min-width: $md) {
+        .learning-content {
+            .article-content {
+                .wt-box {
+                    .square-list {
+                        li {
+                            vertical-align: top;
+                            strong {
+                                margin-bottom: 0;
+                                display: inline-block;
+                            }
+                            p {
+                                display: inline-block;
+                                margin-left: 10px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $lg) {
+        .expectation {
+            .article-content {
+                ol {
+                    li {
+                        > div {
+                            margin-top: 0 !important;
+                            padding: 20px 20px 0;
+                        }
+                    }
+                }
+            }
+        }
+        .expectation-list {
+            > li {
+                width: 25% !important;
+                margin: 0 !important;
+                padding: 0 10px 0 0 !important;
+                &:last-child {
+                    padding-right: 0 !important;
+                }
+                > div {
+                    padding: 20px 20px 0;
+                }
+            }
+        }
+    }
+}
+
+
+// 전략 및 제안서 개발 과정
+.strategy {
+    .expectation {
+        .perspective {
+            margin-top: 30px;
+            opacity: .6;
+            dt {
+                font-size: 13px;
+                color: #666;
+                font-weight: 400;
+            }
+            dd {
+                margin-top: 20px;
+                ul {
+                    li {
+                        font-size: 13px;
+                        color: #666;
+                        line-height: 25px;
+                    }
+                }
+            }
+        }
+        .article-content {
+            ol {
+                li {
+                    & ~ li  {
+                        > div {
+                            margin-top: 10px;
+                        }
+                    }
+                    > div {
+                        width: 100%;
+                        height: 180px;
+                        padding: 30px 40px 0; 
+                        margin: 0 auto;
+                        border: 5px solid #999;
+                        span {
+                            font-size: 24px;
+                            display: block;
+                            color: #333;
+                            @include lato();
+                            margin-bottom: 10px;
+                        }
+                        p {
+                            font-size: 16px;
+                            color: #333;
+                            line-height: 26px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .expectation {
+            .perspective {
+                margin-top: 45px;
+                dt {
+                    font-size: 14px;
+                }
+                dd {
+                    margin-top: 10px;
+                    ul {
+                        li {
+                            font-size: 14px;
+                        }
+                    }
+                }
+            }
+            .article-content {
+                ol {
+                    li {
+                        & ~ li  {
+                            > div {
+                                margin-top: 20px;
+                            }
+                        }
+                        &:nth-of-type(2) {
+                            > div {
+                                margin-top: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $md) {
+        .learning-content {
+            .article-content {
+                .wt-box {
+                    .square-list {
+                        li {
+                            vertical-align: top;
+                            strong {
+                                margin-bottom: 0;
+                                display: inline-block;
+                            }
+                            p {
+                                display: inline-block;
+                                margin-left: 10px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .expectation {
+            .perspective {
+                dd {
+                    ul {
+                        font-size: 0;
+                        li {
+                            display: inline-block;
+                            width: 50%;
+                            font-size: 14px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $lg) {
+        .expectation {
+            .article-content {
+                ol {
+                    li {
+                        > div {
+                            margin-top: 0 !important;
+                            padding: 20px 20px 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+// 제안 프레젠테이션 교육
+.proposal-pt {
+    .learning-content {
+        .article-content {
+            .square-list {
+                & ~ .square-list {
+                    margin-top: 50px;
+                }
+            }
+        }
+    }
+    .expectation {
+        .article-content {
+            ol {
+                li {
+                    & ~ li  {
+                        > div {
+                            margin-top: 10px;
+                        }
+                    }
+                    > div {
+                        width: 100%;
+                        height: 180px;
+                        padding: 30px 40px 0; 
+                        margin: 0 auto;
+                        border: 5px solid #999;
+                        span {
+                            font-size: 24px;
+                            display: block;
+                            color: #333;
+                            @include lato();
+                            margin-bottom: 10px;
+                        }
+                        p {
+                            font-size: 16px;
+                            color: #333;
+                            line-height: 26px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .expectation {
+            .article-content {
+                ol {
+                    li {
+                        & ~ li  {
+                            > div {
+                                margin-top: 20px;
+                            }
+                        }
+                        &:nth-of-type(2) {
+                            > div {
+                                margin-top: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $md) {
+        .learning-content {
+            .article-content {
+                .wt-box {
+                    overflow: hidden;
+                    .square-list {
+                        position: relative;
+                        float: left;
+                        width: 50%;
+                        &:after {
+                            position: absolute;
+                            top: 0;
+                            right: 20px;
+                            content: "";
+                            height: 100%;
+                            border-right: 1px solid #ccc;
+                        }
+                        & ~ .square-list {
+                            margin: 0;
+                            border: 0;
+                            padding-left: 20px;
+                            &:after {
+                                content: "";
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $lg) {
+        .expectation {
+            .article-content {
+                ol {
+                    li {
+                        margin-bottom: 20px;
+                        > div {
+                            margin-top: 0 !important;
+                            padding: 20px 20px 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// 수주 특강
+.special-lecture {
+    .attention {
+        font-size: 14px;
+        color: #666;
+        line-height: 24px;
+        margin-top: 20px;
+    }
+    .expectation {
+        .article-content {
+            ol {
+                li {
+                    & ~ li  {
+                        > div {
+                            margin-top: 10px;
+                        }
+                    }
+                    > div {
+                        width: 100%;
+                        height: 180px;
+                        padding: 30px 40px 0; 
+                        margin: 0 auto;
+                        border: 5px solid #999;
+                        span {
+                            font-size: 24px;
+                            display: block;
+                            color: #333;
+                            @include lato();
+                            margin-bottom: 10px;
+                        }
+                        p {
+                            font-size: 16px;
+                            color: #333;
+                            line-height: 26px;
+                            letter-spacing: -.5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $sm) {
+        .expectation {
+            .article-content {
+                ol {
+                    overflow: hidden;
+                    li {
+                        float: left;
+                        width: 50%;
+                        & ~ li  {
+                            > div {
+                                margin-top: 20px;
+                            }
+                        }
+                        &:nth-of-type(2) {
+                            > div {
+                                margin-top: 0;
+                            }
+                        }
+                        &:nth-of-type(2n + 1) {
+                            padding-right: 5px;
+                        }
+                        &:nth-of-type(2n + 2) {
+                            padding-left: 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    @media(min-width: $lg) {
+        .expectation {
+            .article-content {
+                ol {
+                    li {
+                        padding-left: 5px;
+                        padding-right: 5px;
+                        width: 20% !important;
+                        > div {
+                            margin-top: 0 !important;
+                            padding: 20px 20px 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+// 공개 세미나
+.open-seminar {
+    section {
+        .section-header {
+            padding-bottom: 40px;
+            h4 {
+                position: relative;
+                font-size: 22px;
+                color: #333;
+                padding-left: 15px;
+                &:before {
+                    position: absolute;
+                    top: 50%;
+                    left: 0;
+                    width: 2px;
+                    height: 20px;
+                    margin-top: -10px;
+                    display: block;
+                    content: "";
+                    background-color: #fba574;
+                }
+            }
+            @media(min-width: $sm) {
+                padding-bottom: 50px;
+                h4 {
+                    font-size: 30px;
+                    &:before {
+                        width: 4px;
+                        height: 30px;
+                        margin-top: -15px;
+                    }
+                }
+            }
+        }
+        .section-content {
+            .table-responsive {
+                border-top: 3px solid #393939;
+                .table {
+                    margin: 0;
+                    border: 0;
+                    thead {
+                        tr {
+                            th {
+                                width: 70px;
+                                font-size: 14px;
+                                text-align: center;
+                                vertical-align: middle;
+                                border: 0;
+                                padding: 20px 0;
+                                border-right: 1px solid #d6d6d6;
+                                background-color: #f5f5f5;
+                                &:last-child {
+                                    border-right: 0;
+                                }
+                                &:nth-of-type(1) {
+                                    width: 240px;
+                                }
+                                @media(min-width: $sm) {
+                                    font-size: 15px;
+                                }
+                            }
+                        }
+                    }
+                    tbody {
+                        tr {
+                            &:last-child {
+                                td {
+                                    border-bottom: 1px solid #d6d6d6;
+                                }
+                            }
+                            td {
+                                width: 70px;
+                                font-size: 13px;
+                                color: #666;
+                                height: 64px;
+                                text-align: center;
+                                vertical-align: middle;
+                                border: 0;
+                                padding: 0;
+                                border-top: 1px solid #d6d6d6;
+                                border-right: 1px solid #d6d6d6;
+                                > div {
+                                    width: 69px;
+                                }
+                                &:last-child {
+                                    border-right: 0;
+                                }
+                                &:nth-of-type(1) {
+                                    p {
+                                        width: 240px;
+                                    }
+                                    text-align: left;
+                                    padding: 20px 30px;
+                                }
+                                &.expiration {
+                                    background-color: #efefef;
+                                }
+                                &.apply {
+                                    .apply-btn {
+                                        padding-left: 5px;
+                                        padding-right: 5px;
+                                        margin-top: 3px;
+                                        .btn-blue {
+                                            width: 100%;
+                                            height: 24px;
+                                            font-size: 12px;
+                                            color: #fff !important;
+                                            line-height: 24px;
+                                            opacity: 1 !important;
+                                            background-color: #d6d6d6;
+                                            &:hover, &:focus {
+                                                background-color: #035e95;
+                                            }
+                                        }
+                                    }
+                                }
+                                @media(min-width: $sm) {
+                                    font-size: 14px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .attention {
+                font-size: 14px;
+                color: #666;
+                margin-top: 20px;
+                text-align: right;
+                span {
+                    position: relative;
+                    top: 2px;
+                    display: inline-block;
+                    margin-right: 10px;
+                    width: 15px;
+                    height: 15px;
+                    background-color: #efefef;
+                }
+            }
+            .btn-area {
+                text-align: right;
+                margin-top: 30px;
+                p {
+                    .btn-account {
+                        width: 100px;
+                        line-height: 40px;
+                        font-size: 14px;
+                        color: #fff;
+                        background-color: #005c94;
+                    }
+                }
+                @media(min-width: $sm) {
+                    p {
+                        .btn-account {
+                            width: 140px;
+                            font-size: 15px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .appply-modal {
+        padding-right: 0 !important;
+        .modal-dialog {
+            margin-top: 120px;
+            margin-bottom: 120px;
+            @media(min-width: $md) {
+                width: 950px;
+            }
+            .modal-content {
+                border: 0;
+                border-radius: 0;
+                box-shadow: none;
+                .modal-header {
+                    position: relative;
+                    padding: 30px;
+                    border: 0;
+                    background-color: #005c94;
+                    .modal-title {
+                        font-size: 18px;
+                        color: #fff;
+                    }
+                    .close {
+                        position: absolute;
+                        top: 50%;
+                        right: 30px;
+                        color: #fff;
+                        font-size: 25px;
+                        margin-top: -14px;
+                        opacity: 1 !important;
+                    }
+                    @media(min-width: $sm) {
+                        .modal-title {
+                            font-size: 20px;
+                        }
+                    }
+                }
+                .modal-body {
+                    padding: 30px;
+                    background-color: #fff;
+                    .summary {
+                        font-size: 13px;
+                        color: #666;
+                        line-height: 26px;
+                        margin-bottom: 40px;
+                    }
+                    h5 {
+                        font-size: 18px;
+                        color: #2b2b2b;
+                        margin-bottom: 20px;
+                    }
+                    .table-wrap {
+                        border-top: 3px solid #333;
+                        .table {
+                            margin: 0;
+                            border: 0;
+                            tbody {
+                                tr {
+                                    th {
+                                        width: 100px;
+                                        border: 0;
+                                        font-weight: bold;
+                                        font-size: 13px;
+                                        vertical-align: middle;
+                                        border-bottom: 1px solid #d6d6d6;
+                                        background-color: #f5f5f5;
+                                        label {
+                                            font-weight: bold;
+                                            margin: 0;
+                                        }
+                                    }
+                                    td {
+                                        vertical-align: middle;
+                                        font-size: 13px;
+                                        color: #666;
+                                        padding: 10px;
+                                        height: 53px;
+                                        border: 0;
+                                        border-bottom: 1px solid #d6d6d6;
+                                        .form-group {
+                                            .form-control {
+                                                width: 100%;
+                                                border-radius: 3px;
+                                                height: 32px;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    @media(min-width: $sm) {
+                        padding: 70px 60px;
+                        .summary {
+                            font-size: 15px;
+                            line-height: 28px;
+                            margin-bottom: 60px;
+                        }
+                        h5 {
+                            font-size: 20px;
+                        }
+                        .table-wrap {
+                            .table {
+                                tbody {
+                                    tr {
+                                        th {
+                                            width: 157px;
+                                            font-size: 15px;
+                                        }
+                                        td {
+                                            font-size: 14px;
+                                            padding-left: 35px;
+                                            padding-right: 35px;
+                                            &.titles {
+                                                .form-group {
+                                                    .form-control {
+                                                        width: 140px;
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    @media(min-width: $md) {
+                        .table-wrap {
+                            .table {
+                                tbody {
+                                    tr {
+                                        th {
+                                            padding-left: 25px;
+                                        }
+                                        td {
+                                            .form-group {
+                                                .form-control {
+                                                    width: 340px;
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .modal-foot {
+                    .btn-area {
+                        padding: 50px 0;
+                        text-align: center;
+                        background-color: #f5f5f5;
+                        .confirm {
+                            font-size: 16px;
+                            color: #005c94;
+                            font-weight: bold;
+                            margin-bottom: 20px;
+                        }
+                        p {
+                            .btn {
+                                width: 100px;
+                                height: 40px;
+                                line-height: 40px;
+                                color: #fff;
+                                font-size: 14px;
+                                margin-right: 10px;
+                                &:last-child {
+                                    margin-right: 0;
+                                }
+                                &.btn-gray {
+                                    background-color: #929291;
+                                }
+                                &.btn-blue {
+                                    background-color: #005c94;
+                                }
+                                @media(min-width: $sm) {
+                                    width: 140px;
+                                    font-size: 15px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .success-modal {
+        &.account-modal {
+            .modal-dialog {
+                .modal-content {
+                    .modal-body {
+                        padding-bottom: 60px;
+                        .account {
+                            margin-top: 0;
+                        }
+                    }
+                }
+            }
+        }
+        .modal-dialog {
+            margin-top: 120px;
+            margin-bottom: 120px;
+            @media(min-width: $md) {
+                width: 950px;
+            }
+            .modal-content {
+                border: 0;
+                border-radius: 0;
+                box-shadow: none;
+                .modal-header {
+                    position: relative;
+                    padding: 30px;
+                    border: 0;
+                    background-color: #005c94;
+                    .modal-title {
+                        font-size: 18px;
+                        color: #fff;
+                    }
+                    .close {
+                        position: absolute;
+                        top: 50%;
+                        right: 30px;
+                        color: #fff;
+                        font-size: 25px;
+                        margin-top: -14px;
+                        opacity: 1 !important;
+                    }
+                    @media(min-width: $sm) {
+                        .modal-title {
+                            font-size: 20px;
+                        }
+                    }
+                }
+                .modal-body {
+                    padding: 30px;
+                    background-color: #fff;
+                    h5 {
+                        font-size: 23px;
+                        color: #f36f21;
+                        text-align: center;
+                        @media(min-width: $sm) {
+                            font-size: 28px;
+                        }
+                    }
+                    .account {
+                        padding: 20px;
+                        margin-top: 30px;
+                        border: 1px solid #ededed;
+                        background-color: #f8f8f8;
+                        figure {
+                            padding: 0 30px;
+                            margin-bottom: 30px;
+                            .img-responsive {
+                                margin: 0 auto;
+                            }
+                        }
+                        .details {
+                            text-align: center;
+                            h6 {
+                                display: inline-block;
+                                width: 165px;
+                                font-size: 14px;
+                                color: #fff;
+                                line-height: 36px;
+                                border-radius: 30px;
+                                margin-bottom: 15px;
+                                background-color: #808080;
+                            }
+                            p {
+                                font-size: 14px;
+                                line-height: 30px;
+                                color: #666;
+                            }
+                        }
+                        @media(min-width: $sm) {
+                            padding: 25px;
+                            margin-top: 60px;
+                            figure {
+                                padding: 0;
+                                margin: 0;
+                            }
+                            .details {
+                                padding: 50px 0;
+                                text-align: left;
+                                h6 {
+                                    text-align: center;
+                                    font-size: 16px;
+                                    margin-bottom: 30px;
+                                }
+                                p {
+                                    font-size: 16px;
+                                }
+                            }
+                        }
+                    }
+                    .summary {
+                        margin-top: 30px;
+                        font-size: 13px;
+                        color: #666;
+                        font-weight: 400;
+                        line-height: 24px;
+                        a {
+                            color: #666;
+                            display: inline-block;
+                        }
+                        @media(min-width: $sm) {
+                            font-size: 15px;
+                            line-height: 28px;
+                        }
+                        
+                    }
+                }
+                .modal-foot {
+                    padding: 30px 0;
+                    background-color: #f5f5f5;
+                    .btn-area {
+                        text-align: center;
+                        .btn-blue {
+                            width: 160px;
+                            line-height: 40px;
+                            font-size: 13px;
+                            color: #fff;
+                            text-align: center;
+                            background-color: #005c94;
+                        }
+                    }
+                    @media(min-width: $sm) {
+                        padding: 30px 0;
+                        .btn-area {
+                            .btn-blue {
+                                font-size: 15px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.modal-open {
+    padding-right: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

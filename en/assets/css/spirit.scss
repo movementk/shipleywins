@@ -1,0 +1,396 @@
+@import 'common';
+
+.spirit {
+    .page-header {
+        background-image: url(/en/assets/images/ourservice/bg_oursevice_header.jpg);
+    }
+}
+
+.spirit-content {
+    section {
+        .section-header {
+            text-align: center;
+            padding-bottom: 30px;
+            h3 {
+                font-size: 30px;
+                color: #333;
+                img {
+                    display: block;
+                    margin: 0 auto;
+                    margin-bottom: 10px;
+                }
+            }
+            @media(min-width: $sm) {
+                padding-bottom: 45px;
+                h3 {
+                    font-size: 32px;
+                }
+            }
+            @media(min-width: $md) {
+                padding-bottom: 60px;
+                h3 {
+                    font-size: 34px;
+                }
+            }
+        }
+        .shepley-target {
+            margin-bottom: 60px;
+            ol {
+                > li {
+                    background-color: #f7f7f7;
+                    box-shadow: 1px 3px 7px 0px rgba(0, 0, 0, 0.1); 
+                    & ~ li {
+                        margin-top: 15px;
+                    }
+                    .list-header {
+                        padding: 30px 0;
+                        dl {
+                            text-align: center;
+                            dt {
+                                font-size: 26px;
+                                color: #005c94;
+                                margin-bottom: 20px;
+                            }
+                            dd {
+                                font-size: 14px;
+                                color: #777;
+                            }
+                        }
+                    }
+                    .details {
+                        text-align: center;
+                        padding: 0 20px 30px 20px;
+                        strong {
+                            display: block;
+                            font-size: 20px;
+                            color: #333;
+                            margin-bottom: 10px;
+                            font-weight: 500;
+                            @include lato();
+                        }
+                        p {
+                            font-size: 13px;
+                            color: #777;
+                        }
+                        .point {
+                            li {
+                                & ~ li {
+                                    margin-top: 15px;
+                                }
+                            }
+                        }
+                        .metal-list {
+                            li {
+                                & ~ li {
+                                    margin-top: 15px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            @media(min-width: $md) {
+                margin-bottom: 100px;
+                ol {
+                    > li {
+                        &:nth-of-type(1) {
+                            .details {
+                                padding-top: 40px;
+                            }
+                        }
+                        &:nth-of-type(2) {
+                            .details {
+                                padding-top: 20px;
+                            }
+                            .list-header {
+                                padding: 95px 0;
+                            }
+                        }
+                        &:nth-of-type(3) {
+                            .details {
+                                padding-top: 30px;
+                            }
+                        }
+                        &:nth-of-type(4) {
+                            .details {
+                                padding-top: 28px;
+                                padding-right: 0;
+                            }
+                            .list-header {
+                                padding: 80px 0;
+                            }
+                        }
+                        .list-header {
+                            padding: 40px 0;
+                            dl {
+                                display: block;
+                                margin: 0 auto;
+                                width: 160px;
+                                text-align: left;
+                                dt {
+                                    font-size: 28px;
+                                }
+                                dd {
+                                    font-size: 15px;
+                                }
+                            }
+                        }
+                        .details {
+                            text-align: left;
+                            strong {
+                                font-size: 26px;
+                                margin-bottom: 20px;
+                            }
+                            p {
+                                font-size: 15px;
+                                
+                            }
+                            .point {
+                                text-align: left;
+                                li {
+                                    & ~ li {
+                                        margin-top: 0;
+                                    }
+                                }
+                            }
+                            .metal-list {
+                                li {
+                                    text-align: left;
+                                    & ~ li {
+                                        margin-top: 20px;
+                                    }
+                                    strong {
+                                        width: 135px;
+                                        display: inline-block;
+                                        margin: 0;
+                                        font-size: 22px;
+                                        vertical-align: top;
+                                        line-height: 30px;
+                                    }
+                                    p {
+                                        margin-left: 40px;
+                                        display: inline-block;
+                                        line-height: 30px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .details-promise {
+                margin-top: 30px;
+                ul {
+                    li {
+                        b {
+                            display: block;
+                            font-size: 14px;
+                            color: #005f98;
+                            margin-bottom: 15px;
+                        }
+                        p {
+                            font-size: 13px;
+                            color: #666;
+                        }
+                        & ~ li {
+                            b {
+                                margin-top: 30px;
+                            }
+                        }
+                        @media(min-width: $md) {
+                            b {
+                                font-size: 18px;
+                            }
+                            p {
+                                font-size: 15px;
+                                line-height: 24px;
+                            }
+                        }
+                        @media(min-width: $lg) {
+                            b {
+                                margin-top: 0 !important;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .promise {
+            margin-bottom: 60px;
+            background-image: url(/en/assets/images/spirit/bg_promise.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+            padding: 50px 0;
+            @media(min-width: $sm) {
+                padding: 80px 0;
+            }
+            @media(min-width: $md) {
+                margin-bottom: 100px;
+                padding: 100px 0;
+            }
+            ul {
+                li {
+                    & ~ li {
+                        margin-top: 30px;
+                        @media(min-width: $sm) {
+                            margin-top: 0;
+                        }
+                    }
+                    figure {
+                        .img-responsive {
+                            margin: 0 auto;
+                            width: 180px;
+                            @media(min-width: $sm) {
+                                width: 200px;
+                            }
+                            @media(min-width: $md) {
+                                width: 234px;
+                            }
+                        }
+                        figcaption {
+                            display: block;
+                            width: 250px;
+                            font-size: 14px;
+                            color: #fff;
+                            line-height: 24px;
+                            margin: 0 auto;
+                            margin-top: 30px;
+                            @media(min-width: $sm) {
+                                width: 230px;
+                            }
+                            @media(min-width: $md) {
+                                width: 250px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .contents-directory {
+            .article-header {
+                padding-bottom: 40px;
+                h4 {
+                    position: relative;
+                    font-size: 22px;
+                    color: #333;
+                    padding-left: 15px;
+                    &:before {
+                        position: absolute;
+                        top: 50%;
+                        left: 0;
+                        width: 2px;
+                        height: 20px;
+                        margin-top: -10px;
+                        display: block;
+                        content: "";
+                        background-color: #fba574;
+                    }
+                }
+                @media(min-width: $sm) {
+                    padding-bottom: 50px;
+                    h4 {
+                        font-size: 30px;
+                        &:before {
+                            width: 4px;
+                            height: 30px;
+                            margin-top: -15px;
+                        }
+                    }
+                }
+            }
+            ul {
+                > li {
+                    & ~ li {
+                        margin-top: 20px;
+                    }
+                    border: 1px solid #e2e2e2;
+                    figure {
+                        .img-responsive {
+                            width: 100%;
+                            @media(min-width: $md) {
+                                width: 584px;
+                            }
+                        }
+                    }
+                    .details {
+                        padding: 30px;
+                        .v-align {
+                            h4 {
+                                font-size: 18px;
+                                color: #333;
+                                margin-bottom: 10px;
+                                @media(min-width: $lg) {
+                                    font-size: 20px;
+                                    margin-bottom: 20px;
+                                }
+                            }
+                            p {
+                                font-size: 14px;
+                                color: #888;
+                                margin-bottom: 10px;
+                                @media(min-width: $lg) {
+                                    font-size: 16px;
+                                    margin-bottom: 20px;
+                                }
+                            }
+                            ol {
+                                li {
+                                    position: relative;
+                                    padding-left: 35px;
+                                    font-size: 14px;
+                                    color: #777;
+                                    line-height: 20px;
+                                    @include roboto();
+                                    & ~ li {
+                                        margin-top: 5px;
+                                        @media(min-width: $md) {
+                                            margin-top: 10px;
+                                        }
+                                    }
+                                    span {
+                                        position: absolute;
+                                        top: 0;
+                                        left: 0;
+                                        display: inline-block;
+                                        width: 20px;
+                                        height: 20px;
+                                        font-size: 11px;
+                                        color: #fff;
+                                        line-height: 22px;
+                                        text-align: center;
+                                        border-radius: 50%;
+                                        background-color: #6e6e6e;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    @media(min-width: $md) {
+                        overflow: hidden;
+                        figure {
+                            width: 50%;
+                            float: left;
+                            .img-responsive {
+                                height: 265px;
+                            }
+                        }
+                        .details {
+                            width: 50%;
+                            float: left;
+                            padding: 0;
+                            padding-left: 30px;
+                            padding-right: 30px;
+                            display: table;
+                            .v-align {
+                                display: table-cell;
+                                height: 265px;
+                                vertical-align: middle;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
