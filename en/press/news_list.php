@@ -51,67 +51,67 @@
                                     <th>No</th>
                                     <th>제목</th>
                                     <th>등록일</th>
-                                    <th>조회</th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>
                                 <tr>
                                     <td>152</td>
-                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                                    <td class="subject"><a href="/en/press/news_view.php">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                                     <td>2015.06.08</td>
                                     <td>700</td>
                                 </tr>

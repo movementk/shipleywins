@@ -1,8 +1,13 @@
-@import url("//fonts.googleapis.com/css?family=Noto+Sans:400,700");
+@import url(//cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
 @import url("//fonts.googleapis.com/css?family=Lato:300,400,700,900");
 @import url("//fonts.googleapis.com/css?family=Maven+Pro:400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600");
 @import url("//fonts.googleapis.com/css?family=Roboto");
+@font-face {
+  font-family: 'Daehan';
+  font-style: normal;
+  font-weight: 400;
+  src: url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff2") format("woff2"), url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff") format("woff"); }
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0; }
@@ -418,13 +423,13 @@ a {
   @media (min-width: 768px) {
     .internal-consulting .page-header .page-list li a {
       margin-bottom: 15px; }
-    .internal-consulting .page-header .page-summary h2 {
-      margin-top: 40px; } }
+    .internal-consulting .page-header .page-summary {
+      margin-top: 30px; } }
   @media (min-width: 1200px) {
     .internal-consulting .page-header .page-list li a {
       margin-bottom: 0; }
-    .internal-consulting .page-header .page-summary h2 {
-      margin-top: 75px; } }
+    .internal-consulting .page-header .page-summary {
+      margin-top: 50px; } }
 .internal-consulting #content {
   padding: 60px 0 105px; }
   @media (min-width: 768px) {
@@ -568,7 +573,7 @@ article.process .dot-list {
   margin: 0 auto; }
 @media (min-width: 768px) {
   .competition-pt .sub-nav {
-    height: 60px; }
+    height: 82px; }
     .competition-pt .sub-nav .dropdown-menu {
       top: 0; }
       .competition-pt .sub-nav .dropdown-menu li {
@@ -589,7 +594,7 @@ article.process .dot-list {
   margin: 0 auto; }
 @media (min-width: 768px) {
   .introduction-pt .sub-nav {
-    height: 60px; }
+    height: 82px; }
     .introduction-pt .sub-nav .dropdown-menu {
       top: 0; }
       .introduction-pt .sub-nav .dropdown-menu li {
@@ -619,7 +624,7 @@ article.process .dot-list {
   margin-top: 10px; }
 .onepoint .one-point-consulting .point-list > li > div {
   width: 100%;
-  height: 195px;
+  height: 230px;
   padding: 30px 40px 0;
   margin: 0 auto;
   border: 5px solid #999; }
@@ -901,7 +906,7 @@ article.process .dot-list {
         margin-top: 40px; }
 @media (min-width: 768px) {
   .business-diagnosis .sub-nav {
-    height: 60px; }
+    height: 82px; }
     .business-diagnosis .sub-nav .dropdown-menu {
       top: 0; }
       .business-diagnosis .sub-nav .dropdown-menu li {
@@ -1029,7 +1034,7 @@ article.process .dot-list {
   margin: 0 auto; }
 @media (min-width: 768px) {
   .proposal-diagnosis .sub-nav {
-    height: 60px; }
+    height: 82px; }
     .proposal-diagnosis .sub-nav .dropdown-menu {
       top: 0; }
       .proposal-diagnosis .sub-nav .dropdown-menu li {
@@ -1129,7 +1134,7 @@ article.process .dot-list {
   margin: 0 auto; }
 @media (min-width: 768px) {
   .pt-diagnosis .sub-nav {
-    height: 60px; }
+    height: 82px; }
     .pt-diagnosis .sub-nav .dropdown-menu {
       top: 0; }
       .pt-diagnosis .sub-nav .dropdown-menu li {

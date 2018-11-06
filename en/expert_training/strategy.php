@@ -14,7 +14,7 @@
                 <li class="active"><a href="/en/expert_training/strategy.php">Training for Writing Strategy Statements and Proposals<span></span></a></li>
                 <li><a href="/en/expert_training/proposal_pt.php">Proposal Presentation Training<span></span></a></li>
                 <li><a href="/en/expert_training/special_lecture.php">Special Lecture for Winning a Business<span></span></a></li>
-                <!--<li><a href="/en/expert_training/open_seminar.php">공개 세미나<span></span></a></li>-->
+                <!--li><a href="/en/expert_training/open_seminar.php">공개 세미나<span></span></a></li-->
             </ul>
             <div class="page-summary">
                 <h2>Training for Writing Strategy Statements and Proposals</h2>
@@ -35,69 +35,34 @@
         <article class="learning-content">
             <div class="container">
                 <div class="article-header">
-                    <h4>Expected Outcome</h4>
+                    <h4>Key Training Contents (16-hour curriculum)</h4>
                 </div>
                 <div class="article-content">
                     <div class="wt-box">
                         <ol class="square-list">
-							<li>
-								<span>1</span>
-								<strong>Understand a process for systematic proposal writing</strong>
-							</li>
-							<li>
-								<span>2</span>
-								<strong>Develop a customer needs-based proposal strategy.</strong>
-							</li>
-							<li>
-								<span>3</span>
-								<strong>Write a proposal with a focus on customer usability.</strong>
-							</li>
-							<li>
-								<span>4</span>
-								<strong>Write a fact-based proposal with ease of identifying a solution for each evaluation item.</strong>
-							</li>
+                            <li>
+                                <span>1</span>
+                                <strong>Elements of a winning proposal</strong>
+                                <p>(practicing proposal evaluation, understanding 7 points of view)</p>
+                            </li>
+                            <li>
+                                <span>2</span>
+                                <strong>Developing a proposal strategy</strong>
+                                <P>(analyzing customer issues, analyzing competitors, writing sales strategy statements)</P>
+                            </li>
+                            <li>
+                                <span>3</span>
+                                <strong>Planning for a proposal</strong>
+                                <P>(fidelity checklist, section plan)</P>
+                            </li>
+                            <li>
+                                <span>4</span>
+                                <strong>Preparing for a proposal</strong>
+                                <P>(4Box strategy, topic sentence, information header, action caption, call-out, success story)</P>
+                            </li>
                         </ol>
                     </div>
-                </div>
-            </div>
-        </article>
-        <article class="expectation">
-            <div class="container">
-                <div class="article-header">
-					<h4>Key Training Contents <small>(16-hour curriculum)</small></h4>
-                </div>
-                <div class="article-content">
-                    <ol class="row">
-						<li class="col-xs-12 col-sm-6 col-lg-3">
-							<div>
-                                <span>01</span>
-                                <p>Elements of a winning proposal</p>
-                                <small>(practicing proposal evaluation, understanding 7 points of view)</small>
-                            </div>
-						</li>
-						<li class="col-xs-12 col-sm-6 col-lg-3">
-							<div>
-                                <span>02</span>
-                                <p>Developing a proposal strategy</p>
-                                <small>(analyzing customer issues, analyzing competitors, writing sales strategy statements)</small>
-                            </div>
-						</li>
-						<li class="col-xs-12 col-sm-6 col-lg-3">
-							<div>
-                                <span>03</span>
-                                <p>Planning for a proposal</p>
-                                <small>(fidelity checklist, section plan)</small>
-                            </div>
-						</li>
-						<li class="col-xs-12 col-sm-6 col-lg-3">
-							<div>
-                                <span>04</span>
-                                <p>Preparing for a proposal</p>
-                                <small>(4Box strategy, topic sentence, information header, action caption, call-out, success story)</small>
-                            </div>
-						</li>
-                    </ol>
-					<dl class="perspective">
+                    <dl class="perspective">
                         <dt>*7 Points of View</dt>
                         <dd>
                             <ul>
@@ -112,6 +77,41 @@
                         </dd>
                     </dl>
                 </div>
+            </div>
+        </article>
+        <article class="expectation">
+            <div class="container">
+                <div class="article-header">
+                    <h4>Expected results</h4>
+                </div>
+                <div class="article-content">
+                    <ol class="row">
+                        <li class="col-xs-12 col-sm-6 col-lg-3">
+                            <div>
+                                <span>01</span>
+                                <p>Understand a process for systematic proposal writing</p>
+                            </div>
+                        </li>
+                        <li class="col-xs-12 col-sm-6 col-lg-3">
+                            <div>
+                                <span>02</span>
+                                <p>Develop a customer needs-based proposal strategy.</p>
+                            </div>
+                        </li>
+                        <li class="col-xs-12 col-sm-6 col-lg-3">
+                            <div>
+                                <span>03</span>
+                                <p>Write a proposal with a focus on customer usability.</p>
+                            </div>
+                        </li>
+                        <li class="col-xs-12 col-sm-6 col-lg-3">
+                            <div>
+                                <span>04</span>
+                                <p>Write a fact-based proposal with ease of identifying a solution for each evaluation item.</p>
+                            </div>
+                        </li>
+                    </ol>
+                </div>
                 <div class="tab-panel">
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-1" aria-expanded="false" aria-controls="collapse-consulting-1">
@@ -125,10 +125,10 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            교육 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>Team leader Hyun Tak Lee</dt>
+                                            <dt>B/D Team leader Hyun Tak Lee</dt>
                                             <dd>
                                                 <ul>
                                                     <li><i class="icon-phone"></i>02-862-8450</li>
@@ -143,7 +143,7 @@
                     </div>
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            Customer Review
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">
@@ -166,7 +166,7 @@
                             </div>
                         </div>
                     </div>
-					<!--
+                    <!--
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-3" aria-expanded="false" aria-controls="collapse-consulting-3">
                             공개 과정에 참석하고 싶다면?
@@ -179,7 +179,7 @@
                             </div>
                         </div>
                     </div>
-					-->
+                    -->
                 </div>
             </div>
         </article>

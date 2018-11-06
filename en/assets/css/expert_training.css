@@ -1,8 +1,14 @@
-@import url("//fonts.googleapis.com/css?family=Noto+Sans:400,700");
+@charset "UTF-8";
+@import url(//cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
 @import url("//fonts.googleapis.com/css?family=Lato:300,400,700,900");
 @import url("//fonts.googleapis.com/css?family=Maven+Pro:400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600");
 @import url("//fonts.googleapis.com/css?family=Roboto");
+@font-face {
+  font-family: 'Daehan';
+  font-style: normal;
+  font-weight: 400;
+  src: url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff2") format("woff2"), url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff") format("woff"); }
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0; }
@@ -415,6 +421,16 @@ a {
 
 .expert-training .page-header {
   background-image: url(/en/assets/images/expert_training/bg_expert_training_header.jpg); }
+  @media (min-width: 768px) {
+    .expert-training .page-header .page-list li a {
+      margin-bottom: 15px; }
+    .expert-training .page-header .page-summary {
+      margin-top: 30px; } }
+  @media (min-width: 1200px) {
+    .expert-training .page-header .page-list li a {
+      margin-bottom: 0; }
+    .expert-training .page-header .page-summary {
+      margin-top: 50px; } }
 .expert-training #content {
   padding: 60px 0 105px; }
   @media (min-width: 768px) {
@@ -499,7 +515,7 @@ article.process .dot-list {
   margin-top: 10px; }
 .sales .expectation .article-content ol li > div {
   width: 100%;
-  height: 180px;
+  height: 210px;
   padding: 30px 40px 0;
   margin: 0 auto;
   border: 5px solid #999; }
@@ -574,7 +590,7 @@ article.process .dot-list {
   margin-top: 10px; }
 .strategy .expectation .article-content ol li > div {
   width: 100%;
-  height: 180px;
+  height: 200px;
   padding: 30px 40px 0;
   margin: 0 auto;
   border: 5px solid #999; }
@@ -588,6 +604,28 @@ article.process .dot-list {
     font-size: 16px;
     color: #333;
     line-height: 26px; }
+.strategy .perspective {
+  margin-top: 30px;
+  opacity: .6; }
+  .strategy .perspective dt {
+    font-size: 13px;
+    color: #666;
+    font-weight: 400; }
+  .strategy .perspective dd {
+    margin-top: 20px; }
+    .strategy .perspective dd ul li {
+      font-size: 13px;
+      color: #666;
+      line-height: 25px; }
+  @media (min-width: 768px) {
+    .strategy .perspective {
+      margin-top: 45px; }
+      .strategy .perspective dt {
+        font-size: 14px; }
+      .strategy .perspective dd {
+        margin-top: 10px; }
+        .strategy .perspective dd ul li {
+          font-size: 14px; } }
 @media (min-width: 768px) {
   .strategy .expectation .perspective {
     margin-top: 45px; }
@@ -683,7 +721,7 @@ article.process .dot-list {
   margin-top: 10px; }
 .special-lecture .expectation .article-content ol li > div {
   width: 100%;
-  height: 180px;
+  height: 240px;
   padding: 30px 40px 0;
   margin: 0 auto;
   border: 5px solid #999; }
@@ -716,8 +754,9 @@ article.process .dot-list {
   .special-lecture .expectation .article-content ol li {
     padding-left: 5px;
     padding-right: 5px;
-    width: 20% !important; }
+    width: 33.33% !important; }
     .special-lecture .expectation .article-content ol li > div {
+      height: 200px;
       margin-top: 0 !important;
       padding: 20px 20px 0; } }
 
@@ -787,9 +826,9 @@ article.process .dot-list {
         border-right: 0; }
       .open-seminar section .section-content .table-responsive .table tbody tr td:nth-of-type(1) {
         text-align: left;
-        padding: 20px 30px; }
+        padding: 20px 10px; }
         .open-seminar section .section-content .table-responsive .table tbody tr td:nth-of-type(1) p {
-          width: 240px; }
+          width: 300px; }
       .open-seminar section .section-content .table-responsive .table tbody tr td.expiration {
         background-color: #efefef; }
       .open-seminar section .section-content .table-responsive .table tbody tr td.apply .apply-btn {
@@ -822,6 +861,52 @@ article.process .dot-list {
     width: 15px;
     height: 15px;
     background-color: #efefef; }
+.open-seminar section .section-content .reference {
+  margin-top: 20px; }
+  @media (min-width: 768px) {
+    .open-seminar section .section-content .reference {
+      margin-top: 30px; } }
+  .open-seminar section .section-content .reference > p {
+    position: relative;
+    padding-left: 20px;
+    font-size: 13px;
+    color: #666;
+    font-weight: 400;
+    line-height: 24px; }
+    .open-seminar section .section-content .reference > p:before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      content: "※"; }
+    @media (min-width: 768px) {
+      .open-seminar section .section-content .reference > p {
+        font-size: 15px;
+        line-height: 28px; } }
+  .open-seminar section .section-content .reference h6 {
+    font-size: 14px;
+    color: #333;
+    font-weight: 600;
+    margin: 20px 0 10px; }
+    @media (min-width: 768px) {
+      .open-seminar section .section-content .reference h6 {
+        margin: 30px 0 15px;
+        font-size: 16px; } }
+  .open-seminar section .section-content .reference ul li {
+    position: relative;
+    font-size: 13px;
+    color: #666;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 15px; }
+    .open-seminar section .section-content .reference ul li:before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      content: "·"; }
+    @media (min-width: 768px) {
+      .open-seminar section .section-content .reference ul li {
+        font-size: 15px;
+        line-height: 28px; } }
 .open-seminar section .section-content .btn-area {
   text-align: right;
   margin-top: 30px; }

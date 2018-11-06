@@ -11,14 +11,14 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development<span></span></a></li>
-                <li><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation<span></span></a></li>
                 <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting<span></span></a></li>
                 <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process<span></span></a></li>
                 <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting<span></span></a></li>
-                <li class="active"><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅<span></span></a></li>
+                <li class="active"><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>진단 컨설팅</h2>
+                <h2>Diagnosis consulting</h2>
             </div>
         </div>
     </div>
@@ -32,7 +32,7 @@
                     Proposal Diagnostic Consulting
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="sub-nav-menu">
-                    <li><a href="/en/internal_consulting/business_diagnosis.php">Order Sales Diagnosis Consulting </a></li>
+                    <li><a href="/en/internal_consulting/business_diagnosis.php">Order Sales Diagnosis Consulting</a></li>
                     <li class="active"><a href="/en/internal_consulting/proposal_diagnosis.php">Proposal Diagnostic Consulting</a></li>
                     <li><a href="/en/internal_consulting/pt_diagnosis.php">PT Diagnosis Consulting</a></li>
                 </ul>
@@ -49,13 +49,13 @@
                     <img src="/en/assets/images/internal_consulting/img_xs_bidbench.gif" class="img-responsive visible-xs" alt="">
                     <img src="/en/assets/images/internal_consulting/img_sm_bidbench.gif" class="img-responsive visible-sm" alt="">
                     <img src="/en/assets/images/internal_consulting/img_lg_bidbench.gif" class="img-responsive visible-md visible-lg" alt="">
-                    <!--figcaption class="hidden-xs">
+                    <!--<figcaption class="hidden-xs">
                         산업별 제안서 최고점과 평균 점수를 기준으로<br>
                         자사 제안서의 경쟁력 및 제안역량을 객관적으로 확인 가능
-                    </figcaption-->
+                    </figcaption>-->
                 </figure>
                 <div class="details">
-                    <h6>정보수집</h6>
+                    <h6>Information collection</h6>
                     <ul>
                         <li>Aerospace, Security&amp;Defense 2. Advertising, Public Relations&amp;Media</li>
                         <li>Agriculture, Food &amp; Beverages 4. Computing, IT and Telecoms</li>
@@ -78,7 +78,7 @@
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -86,12 +86,13 @@
                             <span>1</span>
                             <strong>Confirm proposal competitiveness</strong>
                             <p>
-                                Bid bench(빅데이터 기반한 제안서 평가 프로그램) 활용하여 동종 산업의 경쟁사 대비 자사의 제안서 경쟁력을 객관적으로 비교 분석 할 수 있습니다. 
+                                You can use the Bid bench to objectively compare and analyze the competitiveness of proposals compared to competitors in the same industry.<br>
+                                Bid bench (proposal evaluation program based on Big Data) based proposal assessment programs allow you to objectively analyze the competitiveness of your proposals versus competitors in your industry.
                             </p>
                         </li>
                         <li>
                             <span>2</span>
-                            <strong>Proposing concrete improvement measures </strong>
+                            <strong>Proposing concrete improvement measures</strong>
                             <p>
                                 Rather than just a simple diagnosis, check to see if there are any missing contents in the Request For Proposal (RFP), and show specific improvement plans and how they should be developed. 
                             </p>
@@ -103,11 +104,11 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>Consulting Overview and Process</h4>
+                    <h4>Outline of consulting and procedure</h4>
                     <ul class="dot-list">
                         <li>Schedule : Within 7 days</li>
                         <li>Diagnosis method : Interviews and review of proposal documents </li>
-                        <li>process </li>
+                         <li>Procedure </li>
                     </ul>
                 </div>
                 <div class="article-content">
@@ -115,7 +116,7 @@
                         <!--<img src="/en/assets/images/internal_consulting/img_xs_proposal_diagnosis.jpg" class="img-responsive visible-xs" alt="">
                         <img src="/en/assets/images/internal_consulting/img_sm_proposal_diagnosis.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/internal_consulting/img_lg_proposal_diagnosis.jpg" class="img-responsive" alt="">
-                        <!--figcaption class="sr-only">
+                        <figcaption class="sr-only">
                             <ol>
                                 <li>
                                     <h5>사전인터뷰</h5>
@@ -134,13 +135,13 @@
                                     <p>쉬플리 6대 관점에 의거한 진단결과 보고서 및 방문 디브리핑 제공</p>
                                 </li>
                             </ol>
-                        </figcaption-->
+                        </figcaption>
                     </figure>
                 </div>
                 <div class="tab-panel">
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-1" aria-expanded="false" aria-controls="collapse-consulting-1">
-                            컨설팅 문의하기
+                            Consulting inquiry
                         </a>
                         <div class="collapse" id="collapse-consulting-1">
                             <div class="well">
@@ -150,13 +151,13 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>김준연 팀장</dt>
+                                            <dt>Joon Yeon Kim, Manager</dt>
                                             <dd>
                                                 <ul>
-                                                    <li><i class="icon-phone"></i>02-862-8450</li>
+                                                    <li><i class="icon-phone"></i> 02-862-8450</li>
                                                     <li><i class="icon-mail"></i><a href="mailto:jamie@shipleywins.co.kr">jamie@shipleywins.co.kr</a></li>
                                                 </ul>
                                             </dd>
@@ -169,7 +170,7 @@
                     <!--
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            성공사례 보기
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">

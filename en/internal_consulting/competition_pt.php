@@ -11,14 +11,14 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development<span></span></a></li>
-                <li class="active"><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅<span></span></a></li>
+                <li class="active"><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation<span></span></a></li>
                 <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting<span></span></a></li>
                 <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process<span></span></a></li>
                 <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting<span></span></a></li>
-                <li><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>국내 수주 PT 컨설팅</h2>
+                <h2>Domestic orders PT consulting</h2>
             </div>
         </div>
     </div>
@@ -45,23 +45,23 @@
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <div class="expect-effect">
                         <div class="order-business">
-                            <h5>Business intake</h5>
+                            <h5>Winning a contract</h5>
                             <ol class="square-list">
                                 <li>
                                     <span>1</span>
-                                    <strong>Develop Differentiated PT Slides</strong>
+                                    <strong>Development of distinct PT slides</strong>
                                     <p>
-                                        Businesses can be obtained through the following elements in the PT Slides: inserting emotional slides in the PT concept/strategy, opening/closing; building a solid logical plot structure; inserting designs that attract attention in the contents. 
+                                        Businesses can be obtained through the following elements in the PT Slides: inserting emotional slides in the PT concept/strategy, opening/closing; building a solid logical plot structure; inserting designs that attract attention in the contents.
                                     </p>
                                 </li>
                                 <li>
                                     <span>2</span>
-                                    <strong>Effective Presentation Training</strong>
+                                    <strong>Training for effective presentation</strong>
                                     <p>
                                         Businesses can be obtained because it can target the evaluators effectively through the presenter guidance and Q&amp;A readiness.
                                     </p>
@@ -69,7 +69,7 @@
                             </ol>
                         </div>
                         <div class="reinforcement-capacity">
-                            <h5>Capability development</h5>
+                            <h5>Enhancement of PT capability</h5>
                             <ol class="square-list">
                                 <li>
                                     <span>1</span>
@@ -80,7 +80,7 @@
                                 </li>
                                 <li>
                                     <span>2</span>
-                                    <strong>Understanding how to develop PT slides </strong>
+                                    <strong>Understanding how to develop PT slides</strong>
                                     <p>
                                         Your TFT will be able to understand the PT development process and methodology along with the PT consulting process with Shipley consultants so that you can develop PTs using the process and methodology of Shipley in your next project.
                                     </p>
@@ -94,29 +94,14 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>process</h4>
+                    <h4>Procedure</h4>
                 </div>
                 <div class="article-content">
                     <figure>
-                        <!--<img src="/en/assets/images/internal_consulting/img_xs_competition_process.jpg" class="img-responsive visible-xs" alt="">
-                        <img src="/en/assets/images/internal_consulting/img_sm_competition_process.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/internal_consulting/img_lg_competition_process.jpg" class="img-responsive" alt="">
-                        <!--figcaption class="sr-only">
-                            <ol>
-                                <li>PT Lessons</li>
-                                <li>Strategy Workshop</li>
-                                <li>Story-line Workshop</li>
-                                <li>PT Slide First Review</li>
-                                <li>PT Slide Second Review</li>
-                                <li>Final Review </li>
-                                <li>Script Review</li>
-                                <li>Presenter Coaching</li>
-                                <li>Q&amp;A Readiness</li>
-                            </ol>
-                        </figcaption-->
                     </figure>
                 </div>
-                <p class="note">Graphic design is by <i>NON DESIGN</i>, a subsidiary of Shipley Korea, and printing/production is through a security certified printing center.</p>
+                <p class="note">Graphic design is performed by <i>NON DESIGN</i>, a subsidiary of Shipley  Korea , and Print/Production is done by a subcontractor that has certified for treatment of confidential materials. </p>
                 <div class="tab-panel">
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-1" aria-expanded="false" aria-controls="collapse-consulting-1">
@@ -130,10 +115,10 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>Team leader Hyun Tak Lee</dt>
+                                            <dt>B/D Team leader Hyun Tak Lee</dt>
                                             <dd>
                                                 <ul>
                                                     <li><i class="icon-phone"></i>02-862-8450</li>
@@ -146,9 +131,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="consulting-panel">
+                    <!--<div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            Success story
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">
@@ -162,7 +147,7 @@
                                         <h5>Challenge</h5>
                                         <hr>
                                         <p class="summary">
-                                            OO시 청사 IT 유지 보수 입찰 사업에 참여한 중소 IT기업 G사는 당시 다음과 같은 이슈가 있었다.
+                                            OO시 청사 IT 유지보수 입찰 사업에 참여한 중소 IT기업 G사는 당시 다음과 같은 이슈가 있었다.
                                         </p>
                                         <ul class="dot-list">
                                             <li>유지 보수 사업 실적이 없고, 유지 보수 사업에 처음으로 참여함</li>
@@ -174,7 +159,7 @@
                                         <h5>Solution</h5>
                                         <hr>
                                         <p class="summary">
-                                            쉬플리코리아는 G사에 PT 컨설팅을 수행하였다. 약 OO 개월의 컨설팅 기간 동안 OO 명의 컨설턴트가 참여하였다. PT 전략 개발, PT 슬라이드 개발 및 그래픽 디자인, 발표자 코칭 등을 고객사 TFT와 함께 수행 하였다. 
+                                            쉬플리코리아는 G사에 PT 컨설팅을 수행하였다. 약 OO 개월의 컨설팅 기간 동안 OO명의 컨설턴트가 참여하였다. PT 전략 개발, PT 슬라이드 개발 및 그래픽 디자인, 발표자 코칭 등을 고객사 TFT와 함께 수행 하였다. 
                                         </p>
                                         <ul class="dot-list">
                                             <li>제안 준비 단계 : 캡쳐 플랜 리뷰, R&amp;S (Research &amp; Simulation)</li>
@@ -182,7 +167,7 @@
                                             <li>스토리 라인 개발 단계 : 스토리 라인 워크샵</li>
                                             <li>PT 개발 단계 : PT 슬라이드 리뷰/코칭, 리뷰 및 수정, 스크립트 리뷰/코칭</li>
                                             <li>PT 디자인 단계 :  PT 슬라이드 그래픽 디자인</li>
-                                            <li>Q&amp;A 준비 : 예상 질의응답 리스트 업(list-up) 및 답변 코칭</li>
+                                            <li>Q&amp;A 준비 : 예상 질의 응답 리스트업(list-up) 및 답변 코칭</li>
                                             <li>발표자 코칭 : 발표자 발표 코칭</li>
                                         </ul>
                                     </article>
@@ -195,8 +180,8 @@
                                             <li>이후 G 사는 쉬플리코리아와 매년 연간 계약을 맺어 주요 사업에 대해 PT 컨설팅을 수행하고 있다.</li>
                                         </ul>
                                     </article>
-                                    <!-- <article class="message">
-                                        <h5 class="nns">고객의 메시지</h5>
+                                    <article class="message">
+                                        <h5 class="nns">Customer message</h5>
                                         <div class="square-box">
                                             <p class="caption">
                                                 "무엇보다 좋은 것은 가격으로 수주한게 아니라 전략으로 수주했다는 점이다.<br>
@@ -207,11 +192,11 @@
                                         <figure>
                                             <img src="/en/assets/images/internal_consulting/img_itcampany.jpg" class="img-responsive" alt="">
                                         </figure>
-                                    </article> -->
+                                    </article>
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </article>

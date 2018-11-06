@@ -11,8 +11,8 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/abroad_consulting/proposal.php">Consulting for development of international proposal<span></span></a></li>
-                <li><a href="/en/abroad_consulting/competition_pt.php">Consulting for international competitive PT<span></span></a></li>
-                <li class="active"><a href="/en/abroad_consulting/strategy.php">International specialization <span></span></a></li>
+                <li><a href="/en/abroad_consulting/competition_pt.php">overseas orders PT consulting<span></span></a></li>
+                <li class="active"><a href="/en/abroad_consulting/strategy.php">International specialization<span></span></a></li>
             </ul>
             <div class="page-summary">
                 <h2>International specialization</h2>
@@ -29,25 +29,25 @@
                     MDB Packages
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="sub-nav-menu">
-                    <li class="space"><a href="/en/abroad_consulting/strategy.php">Market advance strategy</a></li>
-                    <li><a href="/en/abroad_consulting/world_class.php">Consulting to be designated as world-class 300 companies</a></li>
-                    <li><a href="/en/abroad_consulting/competency.php">Capability statement consulting</a></li>
-                    <!-- <li><a href="/abroad_consulting/bio.php">바이어 발굴</a></li> -->
-                    <li class="space"><a href="/en/abroad_consulting/global_package.php">Global Sales Packages</a></li>
+                    <li class="space"><a href="/en/abroad_consulting/strategy.php">market advance strategy consulting</a></li>
+                    <li class="space"><a href="/en/abroad_consulting/world_class.php">consulting to be designated as world-class 300 companies</a></li>
+                    <li><a href="/en/abroad_consulting/competency.php">capability statement consulting</a></li>
+                    <!--<li class="active"><a href="/en/abroad_consulting/bio.php">바이어 발굴</a></li>-->
+                    <li><a href="/en/abroad_consulting/global_package.php">Global Sales Packages</a></li>
                     <li class="active"><a href="/en/abroad_consulting/mdb_package.php">MDB Packages</a></li>
                 </ul>
             </div>
             <h4 class="sub-title">MDB Packages</h4>
             <p class="summary">
-                To help Korean companies enter 27.6 billion dollar (about 30 trillion won) scales of the Multilateral Development Bank (MDB) business, experts of international organizations/international development and cooperation and world-best professional contract winning consulting company joined here together.<br>
-                Consultants from international development banks such as the Asian Development Bank(ADB) and the Inter-American Development Bank (IDB) and Shipley consultants who are highly specialized for contract winning and Official Development Assistance (ODA) projects provide MDB business-focused consulting.<br>
+                To help Korean companies enter 27.6 billion dollar (about 30 trillion won) scales of the Multilateral Development Bank (MDB) business, experts of international organizations/international development and cooperation and world-best professional contract winning consulting company joined here together.<br><br>
+                Consultants from international development banks such as the Asian Development Bank(ADB) and the Inter-American Development Bank (IDB) and Shipley consultants who are highly specialized for contract winning and Official Development Assistance (ODA) projects provide MDB business-focused consulting.<br><br>
                 We provide one stop service for international development businesses from pre-sales to brown-bag seminar for positioning, and bid letter of intent/proposal consulting.
             </p>
         </div>
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -56,13 +56,13 @@
                             <strong>Essential consulting solution depending on business development step</strong>
                             <ul class="dot-list">
                                 <li>
-                                    You can identify proper business opportunities based on the Country Partnership Strategy (CPS).
+                                    You can identify proper business opportunities based on the Country Partnership Strategy (CPS).
                                 </li>
                                 <li>
                                     You can improve your positioning through brown-bag seminars for MDB personnel and ordering agencies of cooperating countries.
                                 </li>
                                 <li>
-                                    You can improve the chance to win contracts for MDB business by writing Global level EOI and Technical Proposal. 
+                                    You can improve the chance to win contracts for MDB business by writing Global level EOI and Technical Proposal.
                                 </li>
                             </ul>
                         </li>
@@ -73,47 +73,11 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>Outline of consulting and process</h4>
+                    <h4>Outline of consulting and procedure</h4>
                 </div>
                 <div class="article-content">
                     <figure>
-                        <!--<img src="/en/assets/images/abroad_consulting/img_xs_mdb_process.jpg" class="img-responsive visible-xs" alt="">
-                        <img src="/en/assets/images/abroad_consulting/img_sm_mdb_process.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/abroad_consulting/img_lg_mdb_process.jpg" class="img-responsive" alt="">
-                        <!--<figcaption class="sr-only">
-                            <ol>
-                                <li>
-                                    <h5>MDB 조달 프로세스</h5>
-                                    <p>컨설팅 내용</p>
-                                    <small>컨설팅 특징</small>
-                                </li>
-                                <li>
-                                    <h5>니즈 정의</h5>
-                                    <p>MDB 진출 전략 수립</p>
-                                    <small>SDGs/MDB 장기 전략/CPS 기반</small>
-                                </li>
-                                <li>
-                                    <h5>Long Listing</h5>
-                                    <p>브라운백 세미나 PT/역량기술서</p>
-                                    <small>개도국 이슈 이해와 자사 기술 포지셔닝</small>
-                                </li>
-                                <li>
-                                    <h5>EOI 요청 &amp; hort Listing</h5>
-                                    <p>EOI 컨설팅</p>
-                                    <small>25년 경력의 Technical Writer 감수</small>
-                                </li>
-                                <li>
-                                    <h5>Technical Proposal</h5>
-                                    <p>제안서 컨설팅</p>
-                                    <small>쉬플리의 제안 방법론 활용</small>
-                                </li>
-                                <li>
-                                    <h5>Contract</h5>
-                                    <p>PT 컨설팅</p>
-                                    <small>쉬플리의 제안 방법론 활용</small>
-                                </li>
-                            </ol>
-                        </figcaption>-->
                     </figure>
                     <div class="details">
                         <h5>Scope of consulting</h5>
@@ -154,13 +118,13 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
                                             <dt>Joon Yeon Kim, Manager</dt>
                                             <dd>
                                                 <ul>
-                                                    <li><i class="icon-phone"></i>02-862-8450</li>
+                                                    <li><i class="icon-phone"></i> 02-862-8450</li>
                                                     <li><i class="icon-mail"></i><a href="mailto:jamie@shipleywins.co.kr">jamie@shipleywins.co.kr</a></li>
                                                 </ul>
                                             </dd>

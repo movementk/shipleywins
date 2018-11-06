@@ -1,18 +1,18 @@
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/dochead.php'); ?>
-<link rel="stylesheet" href="/assets/css/sub.css">
-<link rel="stylesheet" href="/assets/css/contact.css">
+<?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/dochead.php'); ?>
+<link rel="stylesheet" href="/en/assets/css/sub.css">
+<link rel="stylesheet" href="/en/assets/css/contact.css">
 
 </head>
 <body class="sub contact">
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); ?>
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/nav.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/header.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/nav.php'); ?>
     <!-- Page Header -->
     <div class="page-header">
         <div class="container">
             <ul class="page-list">
-                <li><a href="/contact/faq_list.php">FAQ<span></span></a></li>
-                <li class="active"><a href="/contact/recruitment.php">인재 채용<span></span></a></li>
-                <li><a href="/contact/location.php">찾아오시는 길<span></span></a></li>
+                <li><a href="/en/contact/faq_list.php">FAQ<span></span></a></li>
+                <li class="active"><a href="/en/contact/recruitment.php">인재 채용<span></span></a></li>
+                <li><a href="/en/contact/location.php">찾아오시는 길<span></span></a></li>
             </ul>
             <div class="page-summary">
                 <h2>인재 채용</h2>
@@ -69,7 +69,7 @@
                         </div>
                         <div class="col-xs-12 col-md-6">
                             <figure>
-                                <img src="/assets/images/contact/img_introduce.jpg" class="img-responsive" alt="">
+                                <img src="/en/assets/images/contact/img_introduce.jpg" class="img-responsive" alt="">
                             </figure>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                     <ul class="row">
                         <li class="col-xs-12 col-sm-4">
                             <p class="figure">
-                                <img src="/assets/images/contact/icon_vision01.gif" alt="">
+                                <img src="/en/assets/images/contact/icon_vision01.gif" alt="">
                             </p>
                             <div class="details">
                                 <h4>3無 (無접대비, 無이중장부, 無차별)</h4>
@@ -106,7 +106,7 @@
                         </li>
                         <li class="col-xs-12 col-sm-4">
                             <p class="figure">
-                                <img src="/assets/images/contact/icon_vision02.gif" alt="">
+                                <img src="/en/assets/images/contact/icon_vision02.gif" alt="">
                             </p>
                             <div class="details">
                                 <h4>투명한 경영 (4:3:2:1 원칙)</h4>
@@ -117,7 +117,7 @@
                         </li>
                         <li class="col-xs-12 col-sm-4">
                             <p class="figure">
-                                <img src="/assets/images/contact/icon_vision03.gif" alt="">
+                                <img src="/en/assets/images/contact/icon_vision03.gif" alt="">
                             </p>
                             <div class="details">
                                 <h4>공동체 지향</h4>
@@ -137,8 +137,8 @@
                     <ul>
                         <li>
                             <figure>
-                                <img src="/assets/images/contact/img_lg_welfare01.jpg" class="img-responsive visible-xs visible-lg" alt="">
-                                <img src="/assets/images/contact/img_sm_welfare01.jpg" class="img-responsive visible-sm visible-md" alt="">
+                                <img src="/en/assets/images/contact/img_lg_welfare01.jpg" class="img-responsive visible-xs visible-lg" alt="">
+                                <img src="/en/assets/images/contact/img_sm_welfare01.jpg" class="img-responsive visible-sm visible-md" alt="">
                             </figure>
                             <div class="details">
                                 <h4>전문가가 되기를 원하는 회사 (경력개발)</h4>
@@ -156,8 +156,8 @@
                         </li>
                         <li>
                             <figure>
-                                <img src="/assets/images/contact/img_lg_welfare02.jpg" class="img-responsive visible-xs visible-lg" alt="">
-                                <img src="/assets/images/contact/img_sm_welfare02.jpg" class="img-responsive visible-sm visible-md" alt="">
+                                <img src="/en/assets/images/contact/img_lg_welfare02.jpg" class="img-responsive visible-xs visible-lg" alt="">
+                                <img src="/en/assets/images/contact/img_sm_welfare02.jpg" class="img-responsive visible-sm visible-md" alt="">
                             </figure>
                             <div class="details">
                                 <h4>전문가가 되기를 원하는 회사 (경력개발)</h4>
@@ -393,7 +393,7 @@
         </div>
     </main>
     <!-- //Content End -->
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/docfoot.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/footer.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/docfoot.php'); ?>
 </body>
 </html>

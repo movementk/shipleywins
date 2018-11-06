@@ -13,29 +13,17 @@
                 <ul>
                     <li style="background-image: url(/en/assets/images/main/slider_img01.jpg);">
                         <h2>
-                            1972년에 설립된<br> <strong>세계 최초의<br class="visible-xs"> 제안 컨설팅 기업</strong>
-                            <small>
-                                The best proposal consulting company<br class="visible-xs">
-                                founded in 1972 around the world
-                            </small>
+                            The best proposal consulting<br> company founded in 1972 around<br> the world
                         </h2>
                     </li>
                     <li style="background-image: url(/en/assets/images/main/slider_img02.jpg);">
                         <h2>
-                            1972년에 설립된<br> <strong>세계 최초의<br class="visible-xs"> 제안 컨설팅 기업</strong>
-                            <small>
-                                The best proposal consulting company<br class="visible-xs">
-                                founded in 1972 around the world
-                            </small>
+                            The best proposal consulting<br> company founded in 1972 around<br> the world
                         </h2>
                     </li>
                     <li style="background-image: url(/en/assets/images/main/slider_img03.jpg);">
                         <h2>
-                            1972년에 설립된<br> <strong>세계 최초의<br class="visible-xs"> 제안 컨설팅 기업</strong>
-                            <small>
-                                The best proposal consulting company<br class="visible-xs">
-                                founded in 1972 around the world
-                            </small>
+                            The best proposal consulting<br> company founded in 1972 around<br> the world
                         </h2>
                     </li>
                 </ul>
@@ -48,11 +36,10 @@
 				<dl>
 					<dt>
 						<strong class="aninum1">0</strong><br class="visible-xs"> 억원
-
 					</dt>
 					<dd>
-						<span class="hidden-xs">쉬플리코리아</span> 누적 수주액
-						<small>16년 말, 금액기준</small>
+						<span class="hidden-xs">Shipley Korea</span> the cumulative<br> amount of orders
+						<small>at the end of 16 years</small>
 					</dd>
 				</dl>
 			</div>
@@ -62,8 +49,8 @@
 						<strong class="aninum2">0</strong><br class="visible-xs"> %
 					</dt>
 					<dd>
-						<span class="hidden-xs">쉬플리코리아</span> 누적 성공률
-						<small>16년 말, 금액기준</small>
+						<span class="hidden-xs">Shipley Korea</span> Cumulative <br>success rate
+						<small>at the end of 16 years</small>
 					</dd>
 				</dl>
 				<div class="grahp">
@@ -90,76 +77,72 @@
 		</article>
         
         <!-- 쉬플리소개 -->
-		<div id="introduce">
-			<article class="our-service">
-				<a href="our_service.php">
-					<div class="back"></div>
-					<div class="figure">
-						<img src="/en/assets/images/main/ourservice_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
-						<img src="/en/assets/images/main/ourservice_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
-						<p class="title">Our<br class="visible-xs"> Service</p>
-					</div>
-					<div class="content">
-						<h5>Our Service</h5>
-						<p class="summary">
-							쉬플리코리아는 국내외의 사업 수주를 위해 다양한<br class="visible-lg">
-							컨설팅과 교육을 제공하고 있습니다.
-						</p>
-					</div>
-				</a>
-			</article>
-			<article class="result-history">
-				<a href="/company/succession_case.php">
-					<div class="back"></div>
-					<div class="figure">
-						<img src="/en/assets/images/main/success_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
-						<img src="/en/assets/images/main/success_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
-						<p class="title">​Success<br class="visible-xs"> Story</p>
-					</div>
-					<div class="content">
-						<h5>​Success Story</h5>
-						<p class="summary">
-							쉬플리코리아는 중요한 사업들을 수주시킨 많은<br class="visible-lg">
-							성공 사례를 가지고 있으며 고객들로부터 감사의 편지를 받고 있습니다.
-						</p>
-					</div>
-				</a>
-			</article>
-			<article class="spirit">
-				<a href="spirit.php">
-					<div class="back"></div>
-					<div class="figure">
-						<img src="/en/assets/images/main/spirit_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
-						<img src="/en/assets/images/main/spirit_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
-						<p class="title">Shipley<br class="visible-xs"> Spirit</p>
-					</div>
-					<div class="content">
-						<h5>Shipley Spirit</h5>
-						<p class="summary">
-							쉬플리코리아는 건강한 미션/비전, 조직문화, 시스템을<br class="visible-lg"> 
-							바탕으로 탁월하게 일하고 있습니다.
-						</p>
-					</div>
-				</a>
-			</article>
-			<article class="press">
-				<a href="/bbs/bbs/board.php?bo_table=news">
-					<div class="back"></div>
-					<div class="figure">
-						<img src="/en/assets/images/main/press_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
-						<img src="/en/assets/images/main/press_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
-						<p class="title">PR</p>
-					</div>
-					<div class="content">
-						<h5>PR</h5>
-						<p class="summary">
-							쉬플리코리아는 다양한 매체를 통해 입찰 수주와 제안,<br class="visible-lg">
-							B2B 영업에 관한 아티클을 공유하고 있습니다.
-						</p>
-					</div>
-				</a>
-			</article>
-		</div>
+        <div id="introduce">
+            <article class="our-service">
+                <a href="our_service.php">
+                    <div class="back"></div>
+                    <div class="figure">
+                        <img src="/en/assets/images/main/recruitment_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
+                        <img src="/en/assets/images/main/recruitment_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
+                        <p class="title">Our<br class="visible-xs"> Service</p>
+                    </div>
+                    <div class="content">
+                        <h5>Our Service</h5>
+                        <p class="summary">
+                            Shipley Korea offers various consulting and education<br> for domestic and foreign business orders.
+                        </p>
+                    </div>
+                </a>
+            </article>
+            <article class="result-history">
+                <a href="/en/company/history.php">
+                    <div class="back"></div>
+                    <div class="figure">
+                        <img src="/en/assets/images/main/result_history_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
+                        <img src="/en/assets/images/main/result_history_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
+                        <p class="title">Result<br class="visible-xs"> &amp; History</p>
+                    </div>
+                    <div class="content">
+                        <h5>Result &amp; History</h5>
+                        <p class="summary">
+                            Shipley Korea has many success stories that have won important projects and receives letters of appreciation from customers.
+                        </p>
+                    </div>
+                </a>
+            </article>
+            <article class="spirit">
+                <a href="spirit.php">
+                    <div class="back"></div>
+                    <div class="figure">
+                        <img src="/en/assets/images/main/spirit_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
+                        <img src="/en/assets/images/main/spirit_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
+                        <p class="title">Shipley<br class="visible-xs"> Spirit</p>
+                    </div>
+                    <div class="content">
+                        <h5>Shipley Spirit</h5>
+                        <p class="summary">
+                            Shipley Korea excels with healthy mission/vision, <br>organizational culture and systems.
+                        </p>
+                    </div>
+                </a>
+            </article>
+            <article class="press">
+                <a href="/en/press/press_list.php">
+                    <div class="back"></div>
+                    <div class="figure">
+                        <img src="/en/assets/images/main/our_service_xs_img.jpg" class="img-responsive hidden-md hidden-lg" alt="">
+                        <img src="/en/assets/images/main/our_service_lg_img.jpg" class="img-responsive visible-md visible-lg" alt="">
+                        <p class="title">PR</p>
+                    </div>
+                    <div class="content">
+                        <h5>PR</h5>
+                        <p class="summary">
+                            Shipley Korea shares the art of bidding orders,<br> proposals and B2B sales through various media.
+                        </p>
+                    </div>
+                </a>
+            </article>
+        </div>
         
         <!-- 소식 및 정보 -->
         <div id="company-news">
@@ -171,16 +154,16 @@
                                 <h3>Shipley News</h3>
                                 <a href="#" class="btn-more">
                                     <i class="icon-plus-1">
-                                        <span class="sr-only">뉴스 더보기</span>
+                                        <span class="sr-only">More News</span>
                                     </i>
                                 </a>
                             </div>
                             <ol class="news-list">
                                 <li>
-                                    <a href="#">쉬플리 이기는 제안 전략 공개세미나 안내</a>
+                                    <a href="#">`Shipley Win` Proposals `Seminar`</a>
                                 </li>
                                 <li>
-                                    <a href="#">최강영어제안서 출간기념 강연회 (서울)</a>
+                                    <a href="#">a lecture on the publication of the strongest English proposal. (seoul)</a>
                                 </li>
                                 <li>
                                     <a href="#">최강영어제안서 출간기념, 실습 Tool Kit 다운 최강영어제안서 실습 Tool Kit 다운 최강영어제안서</a>
@@ -193,30 +176,28 @@
                     </div>
                     <div class="col-xs-12 col-lg-6">
                         <article class="promotion">
-							<h3 class="visible-xs small-title">Latest Reference</h3>
-							<div class="row">
-								<div class="col-xs-12 col-sm-5 col-md-4 col-lg-6">
-									<figure>
-										<img src="/en/assets/images/main/promotion_slide_img01.jpg" class="img-responsive" alt="">
-									</figure>
-								</div>
-
-								<div class="col-xs-12 col-sm-7 col-md-8 col-lg-6">
-									<div class="details">
-										<h3 class="hidden-xs">Latest Reference</h3>
-										<div class="promotion-tabs">
-											<div id="consulting-1" class="tab-content">
-												<h6>1대우조선해양, 장보고 III Batch III 탐색개발 사업 수주</h6>
+                            <h3 class="visible-xs small-title">Latest Reference</h3>
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-5 col-md-4 col-lg-6">
+                                    <figure>
+                                        <img src="/en/assets/images/main/promotion_slide_img01.jpg" class="img-responsive" alt="">
+                                    </figure>
+                                </div>
+                                <div class="col-xs-12 col-sm-7 col-md-8 col-lg-6">
+                                    <div class="details">
+                                        <h3 class="hidden-xs">Latest Reference</h3>
+                                        <div class="promotion-tabs">
+                                            <div id="consulting-1" class="tab-content">
+                                                <h6>1대우조선해양, 장보고 III Batch III 탐색개발 사업 수주</h6>
                                                 <p class="summary">
-                                                    쉬플리 컨설팅을 통해 구체적인 사업 제안 전략을 수립하고, 제안서의 품질을 높여 경쟁사와 유례 없는 큰 점수 차이로 수주할 수 있었습니다.
+                                                    Shipley hrough consulting, the company established a specific business proposal strategy and won the contract by increasing the quality of the proposal to a large margin, which is unprecedented.
                                                 </p>
-											</div>
-											<a href="/en/company/succession_case.php" class="more">More Details</a>
-										</div>
-									</div>
-								</div>
-							</div> 
-						</article>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> 
+                        </article>
                     </div>
                 </div>
                 <div class="sns-promotion">
@@ -226,7 +207,7 @@
                                 <div class="article-header">
                                     <h4>FACEBOOK</h4>
                                 </div>
-                                <p>좋은 프레젠테이션이란<br>무엇일까요? ...</p>
+                                <p>What is a good<br> presentation? ...</p>
                                 <div class="more-details">
                                     <a href="https://www.facebook.com/shipleykorea" class="btn btn-more" target="_blank" role="button">More Details</a>
                                 </div>
@@ -237,7 +218,7 @@
                                 <div class="article-header">
                                     <h4>NAVER BLOG</h4>
                                 </div>
-                                <p>쉬플리코리아, 2017<br>하반기 비전 워크샵</p>
+                                <p>Shipley Korea, 2017<br>the second half Vision workshop</p>
                                 <div class="more-details">
                                     <a href="http://blog.naver.com/shipleykorea" target="_blank" class="btn btn-more" role="button">More Details</a>
                                 </div>

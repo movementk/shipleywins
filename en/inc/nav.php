@@ -10,38 +10,47 @@
                 <a href="#">Company<span></span></a>
                 <ul>
                     <li><a href="/en/company/greeting.php">CEO's Message</a></li>
-                    <li><a href="/en/company/introduce.php">회사소개</a></li>
+                    <li><a href="/en/company/introduce.php">Company introduction</a></li>
                     <li><a href="/en/company/history.php">Major History of Shipley Korea</a></li>
-                    <li><a href="/en/company/partner.php">고객사</a></li>
-                    <!--li><a href="/company/succession_case.php">성공사례</a></li-->
+                    <li><a href="/en/company/partner.php">Client company</a></li>
+                    <li><a href="/en/company/succession_case.php">Customer message</a></li>
                 </ul>
             </li>
             <li>
-                <a href="#">해외수주컨설팅<span></span></a>
+                <a href="#">Overseas order consulting<span></span></a>
                 <ul>
-                    <li><a href="/en/abroad_consulting/proposal.php">Consulting for development of international proposa</a></li>
-                    <li><a href="/en/abroad_consulting/competition_pt.php">Consulting for international competitive PT</a></li>
+                    <li><a href="/en/abroad_consulting/proposal.php">Consulting for development of international proposal</a></li>
+                    <li><a href="/en/abroad_consulting/competition_pt.php">overseas orders PT consulting</a></li>
                     <li><a href="/en/abroad_consulting/strategy.php">International specialization</a></li>
                 </ul>
             </li>
             <li>
-                <a href="#">국내 수주 컨설팅<span></span></a>
+                <a href="#">Domestic order consulting<span></span></a>
                 <ul>
                     <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development</a></li>
-                    <li><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅</a></li>
+                    <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation</a></li>
                     <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting</a></li>
                     <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process</a></li>
                     <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting</a></li>
-                    <li><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅</a></li>
+                    <li><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting</a></li>
                 </ul>
             </li>
+            <!--li>
+                <a href="#">디자인 컨설팅<span></span></a>
+                <ul>
+                    <li><a href="/en/design_consulting/about_us.php">About us</a></li>
+                    <li><a href="/en/design_consulting/definition.php">디자인 컨설팅이란</a></li>
+                    <li><a href="/en/design_consulting/seminar.php">디자인 세미나</a></li>
+                    <li><a href="/en/design_consulting/portfolio.php"> Portfolio</a></li>
+                </ul>
+            </li-->
             <li>
                 <a href="#">Training<span></span></a>
                 <ul>
-                    <li><a href="/en/expert_training/sales.php">B2B Sales Training<span></span></a></li>
-                    <li><a href="/en/expert_training/strategy.php">Training for Writing Strategy Statements and Proposals<span></span></a></li>
-                    <li class="active"><a href="/en/expert_training/proposal_pt.php">Proposal Presentation Training<span></span></a></li>
-                    <li><a href="/en/expert_training/special_lecture.php">Special Lecture for Winning a Business<span></span></a></li>
+                    <li><a href="/en/expert_training/sales.php">B2B Sales Training</a></li>
+                    <li><a href="/en/expert_training/strategy.php">Training for Writing Strategy Statements and Proposals</a></li>
+                    <li><a href="/en/expert_training/proposal_pt.php">Proposal Presentation Training</a></li>
+                    <li><a href="/en/expert_training/special_lecture.php">Special Lecture for Winning a Business</a></li>
                 </ul>
             </li>
             <li>
@@ -55,13 +64,14 @@
                 <a href="#">Contact Us<span></span></a>
                 <ul>
                     <li><a href="/en/contact/faq_list.php">FAQ</a></li>
+                    <!--li><a href="#">인재 채용</a></li-->
                     <li><a href="/en/contact/location.php">찾아오시는 길</a></li>
                 </ul>
             </li>
         </ul>
-        <div class="seminar-btn">
+        <!--<div class="seminar-btn">
             <a href="#" class="btn btn-white" role="button">공개세미나 신청하기</a>
-        </div>
+        </div>-->
         <div class="sns">
             <ul>
                 <li><a href="https://www.facebook.com/shipleykorea" target="_blank">f</a></li>
@@ -197,7 +207,7 @@
                             </li>
                         </ul>
                         <p class="success-btn">
-                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">성공사례</a>
+                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">Customer message</a>
                         </p>
                     </div>
                     <div role="tabpanel" class="tab-pane" id="si-it">
@@ -274,7 +284,7 @@
                             </li>
                         </ul>
                         <p class="success-btn">
-                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">성공사례</a>
+                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">Customer message</a>
                         </p>
                     </div>
                     <div role="tabpanel" class="tab-pane" id="telecommunications">
@@ -351,7 +361,7 @@
                             </li>
                         </ul>
                         <p class="success-btn">
-                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">성공사례</a>
+                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">Customer message</a>
                         </p>
                     </div>
                     <div role="tabpanel" class="tab-pane" id="build-manufacture">
@@ -428,7 +438,7 @@
                             </li>
                         </ul>
                         <p class="success-btn">
-                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">성공사례</a>
+                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">Customer message</a>
                         </p>
                     </div>
                     <div role="tabpanel" class="tab-pane" id="service-consulting">
@@ -505,7 +515,7 @@
                             </li>
                         </ul>
                         <p class="success-btn">
-                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">성공사례</a>
+                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">Customer message</a>
                         </p>
                     </div>
                     <div role="tabpanel" class="tab-pane" id="financial">
@@ -582,7 +592,7 @@
                             </li>
                         </ul>
                         <p class="success-btn">
-                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">성공사례</a>
+                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">Customer message</a>
                         </p>
                     </div>
                     <div role="tabpanel" class="tab-pane" id="logistics">
@@ -659,7 +669,7 @@
                             </li>
                         </ul>
                         <p class="success-btn">
-                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">성공사례</a>
+                            <a href="/en/company/succession_case.php" class="btn btn-blue btn-lg" role="button">Customer message</a>
                         </p>
                     </div>
                 </div>    

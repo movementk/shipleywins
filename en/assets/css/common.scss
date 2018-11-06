@@ -1,8 +1,15 @@
-@import url('//fonts.googleapis.com/css?family=Noto+Sans:400,700'); 
+@import url(//cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
 @import url('//fonts.googleapis.com/css?family=Lato:300,400,700,900');
 @import url('//fonts.googleapis.com/css?family=Maven+Pro:400,500,700');
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,600');
 @import url('//fonts.googleapis.com/css?family=Roboto');
+@font-face{
+    font-family: 'Daehan';
+    font-style: normal;
+    font-weight:400;
+    src: url('//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff2') format('woff2'),
+        url('//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff') format('woff');
+}
 
 $xs: "320px";
 $sm: "768px";
@@ -53,7 +60,7 @@ a {
 }
 
 @mixin nns() {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'NanumSquare', sans-serif;
 }
 @mixin lato() {
     font-family: 'Lato', sans-serif;
@@ -62,7 +69,7 @@ a {
     font-family: 'Maven Pro', sans-serif;
 }
 @mixin daehan() {
-    font-family: 'Noto Sans', sans-serif;
+    font-family:'Daehan';
 }
 @mixin titi() {
     font-family: 'Titillium Web', sans-serif;

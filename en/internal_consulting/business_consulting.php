@@ -11,11 +11,11 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development<span></span></a></li>
-                <li><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation<span></span></a></li>
                 <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting<span></span></a></li>
                 <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process<span></span></a></li>
                 <li class="active"><a href="/en/internal_consulting/business_consulting.php">Sales consulting<span></span></a></li>
-                <li><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
                 <h2>Sales consulting (Capture Consulting)</h2>
@@ -35,27 +35,24 @@
             <article class="capture">
                 <div class="article-header">
                     <h4>What is Capture?</h4>
-                    <p>
-						A set of all activities to secure a specific business opportunity.<br>
-						우리가 신규 고객에게 영업을 할 때, 고객은 우리를 잘 모르는 상태(Unknown Position)입니다. 이러한 포지션에서 시작하여, 우리 회사의 존재를 고객이 알게 만들고(Known Position), 이후에 단순히 우리를 아는 수준이 아니라 우리의 포지션이 향상되고(Improved Position), 더 나아가 고객이 우리를 선호하도록(Favored Position) 포지션을 끌어 올리는 것이 영업(Capture) 컨설팅의 목적입니다.
-					</p>
+                    <p>A set of all activities to secure a specific business opportunity.</p>
                 </div>
                 <div class="article-content">
                     <figure>
-                        <!-- <img src="/en/assets/images/internal_consulting/img_xs_capture.jpg" class="img-responsive visible-xs" alt="">
-                        <img src="/en/assets/images/internal_consulting/img_sm_capture.jpg" class="img-responsive visible-sm" alt=""> -->
-                        <img src="/en/assets/images/internal_consulting/img_lg_capture.jpg" class="img-responsive" alt="">
-                        <!--figcaption class="sr-only">
+                        <img src="/en/assets/images/internal_consulting/img_xs_capture.jpg" class="img-responsive visible-xs" alt="">
+                        <img src="/en/assets/images/internal_consulting/img_sm_capture.jpg" class="img-responsive visible-sm" alt="">
+                        <img src="/en/assets/images/internal_consulting/img_lg_capture.jpg" class="img-responsive visible-md visible-lg" alt="">
+                        <figcaption class="sr-only">
                             <ol>
                                 <li>Unknown Position</li>
                                 <li>Known Position</li>
                                 <li>Improved Position</li>
                                 <li>Favored Position</li>
                             </ol>
-                        </figcaption-->
+                        </figcaption>
                     </figure>
                     <ul class="dot-list">
-                        <li>Bid business : "Business Activity / Solution Development Consulting" before the issue of ITAITB (RFP) </li>
+                        <li>Bid business : "Business Activity / Solution Development Consulting" before the issue of ITAITB (RFP)</li>
                         <li>Non-bid business : Sales and solutions development consulting for positioning to a partner (Purchase contract, overseas brand attraction, etc.)</li>
                     </ul>
                 </div>
@@ -64,7 +61,7 @@
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -96,42 +93,16 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>Consulting Overview and Process</h4>
+                    <h4>Outline of consulting and procedure</h4>
                     <ul class="dot-list">
                         <li>Schedule : more than 3 months</li>
                         <li>Quantity/ scope of work : Decision after discussion</li>
-                        <li>process</li>
+                        <li>Procedure</li>
                     </ul>
                 </div>
                 <div class="article-content">
                     <figure>
-                        <!--<img src="/en/assets/images/internal_consulting/img_xs_business_consulting.jpg" class="img-responsive visible-xs" alt="">
-                        <img src="/en/assets/images/internal_consulting/img_sm_business_consulting.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/internal_consulting/img_lg_business_consulting.jpg" class="img-responsive" alt="">
-                        <!--figcaption class="sr-only">
-                            <ol>
-                                <li>
-                                    <h5>진단</h5>
-                                    <p>현재 영업상황 정밀 진단</p>
-                                </li>
-                                <li>
-                                    <h5>교육 (수주영업/제안전략)</h5>
-                                    <p>전략 중심의 영업, 세일즈 문서 작성 교육</p>
-                                </li>
-                                <li>
-                                    <h5>캡쳐플랜 작성</h5>
-                                    <p>자사/경쟁사 정보를 정리하는 툴킷 학습</p>
-                                </li>
-                                <li>
-                                    <h5>전략 수립</h5>
-                                    <p>사업성공을 위한 전략 수립</p>
-                                </li>
-                                <li>
-                                    <h5>실행계획 수립 (솔루션/커뮤니케이션)</h5>
-                                    <p>영업메시지, 솔루션 개발 방향 확정</p>
-                                </li>
-                            </ol>
-                        </figcaption-->
                     </figure>
                 </div>
                 
@@ -148,10 +119,10 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>Team leader Hyun Tak Lee</dt>
+                                            <dt>B/D Team leader Hyun Tak Lee</dt>
                                             <dd>
                                                 <ul>
                                                     <li><i class="icon-phone"></i>02-862-8450</li>
@@ -167,7 +138,7 @@
                     <!--
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            성공사례 보기
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">

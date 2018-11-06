@@ -1,22 +1,22 @@
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/dochead.php'); ?>
-<link rel="stylesheet" href="/assets/css/sub.css">
+<?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/dochead.php'); ?>
+<link rel="stylesheet" href="/en/assets/css/sub.css">
 
 </head>
 <body class="sub">
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); ?>
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/nav.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/header.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/nav.php'); ?>
     <!-- Page Header -->
     <div class="page-header">
         <div class="container">
             <ul class="page-list">
                 <li class="active"><a href="#">CEO's Message<span></span></a></li>
-                <li><a href="#">회사소개<span></span></a></li>
-                <li><a href="#">실적 및 연혁<span></span></a></li>
-                <li><a href="#">고객사<span></span></a></li>
-                <li><a href="#">성공사례<span></span></a></li>
+                <li><a href="#">Company introduction<span></span></a></li>
+                <li><a href="#">Major History of Shipley Korea<span></span></a></li>
+                <li><a href="#">Client company<span></span></a></li>
+                <li><a href="#">Customer message<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>실적 및 연혁</h2>
+                <h2>Major History of Shipley Korea</h2>
             </div>
         </div>
     </div>
@@ -79,13 +79,13 @@
                             <th>제목</th>
                             <th>글쓴이</th>
                             <th>등록일</th>
-                            <th>조회</th>
+                            
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>152</td>
-                            <td class="subject"><a href="#">D조선, A사 잠수체계사업 성공사례 감사편지</a></td>
+                            <td class="subject"><a href="#">D조선, A사 잠수체계사업 Customer message 감사편지</a></td>
                             <td>Shipleykorea</td>
                             <td>2015.06.08</td>
                             <td>700</td>
@@ -125,7 +125,7 @@
                 </div>
                 <div class="article-content">
                     <figure>
-                        <img src="/assets/images/sub/view_img.jpg" class="img-responsive" alt="">
+                        <img src="/en/assets/images/sub/view_img.jpg" class="img-responsive" alt="">
                     </figure>
                 </div>
                 <div class="attach">
@@ -192,7 +192,7 @@
             
             <div class="expect-effect">
                 <div class="order-business">
-                    <h5>사업 수주</h5>
+                    <h5>Winning a contract</h5>
                     <ol class="square-list">
                         <li>
                             <span>1</span>
@@ -204,7 +204,7 @@
                     </ol>
                 </div>
                 <div class="reinforcement-capacity">
-                    <h5>역량 강화</h5>
+                    <h5>Enhancement of PT capability</h5>
                     <ol class="square-list">
                         <li>
                             <span>1</span>
@@ -266,23 +266,23 @@
             <div class="tab-panel">
                 <div class="consulting-panel">
                     <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapse-consulting-1" aria-expanded="false" aria-controls="collapse-consulting-1">
-                        컨설팅 문의하기
+                        Consulting inquiry
                     </a>
                     <div class="collapse in" id="collapse-consulting-1">
                         <div class="well">
                             <div class="inquire">
                                 <div class="details">
                                     <figure class="hidden-xs">
-                                        <img src="/assets/images/abroad_consulting/img_inquire.gif" alt="">
+                                        <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                     </figure>
                                     <p>
-                                        컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                        If you would like to contact us directly, please contact us at 1 : 1
                                     </p>
                                     <dl>
-                                        <dt>김준연 팀장</dt>
+                                        <dt>Joon Yeon Kim, Manager</dt>
                                         <dd>
                                             <ul>
-                                                <li><i class="icon-phone"></i>010-9903-9386</li>
+                                                <li><i class="icon-phone"></i> 02-862-8450</li>
                                                 <li><i class="icon-mail"></i><a href="mailto:jamie@shipleywins.co.kr">jamie@shipleywins.co.kr</a></li>
                                             </ul>
                                         </dd>
@@ -294,7 +294,7 @@
                 </div>
                 <div class="consulting-panel">
                     <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                        성공사례 보기
+                        Customer message
                     </a>
                     <div class="collapse" id="collapse-consulting-2">
                         <div class="well">
@@ -306,7 +306,7 @@
         </div>
     </main>
     <!-- //Content End -->
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/docfoot.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/footer.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/docfoot.php'); ?>
 </body>
 </html>

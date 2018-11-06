@@ -10,8 +10,8 @@
     <div class="page-header">
         <div class="container">
             <ul class="page-list">
-                <li class="active"><a href="/press/news_list.php">Shipley News<span></span></a></li>
-                <li><a href="/press/press_list.php">Press Release<span></span></a></li>
+                <li class="active"><a href="/en/press/news_list.php">Shipley News<span></span></a></li>
+                <li><a href="/en/press/press_list.php">Press Release<span></span></a></li>
             </ul>
             <div class="page-summary">
                 <h2>Shipley News</h2>

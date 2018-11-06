@@ -34,37 +34,37 @@
                         <ol>
                             <li>
                                 <p>
-                                    (Market<br>Segmentation)
+                                    시장 세분화<br>(Market<br>Segmentation)
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    (Long term<br>Positioning)
+                                    장기 포지셔닝<br>(Long term<br>Positioning)
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    (Opportunity<br>Assessment)
+                                    기회 평가<br>(Opportunity<br>Assessment)
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    (Capture<br>Planning)
+                                    수주 기획<br>(Capture<br>Planning)
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    (Proposal<br>Planning)
+                                    제안 기획<br>(Proposal<br>Planning)
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    (Proposal<br>Development)
+                                    제안서 개발<br>(Proposal<br>Development)
                                 </p>
                             </li>
                             <li>
                                 <p>
-                                    (Post-Submittal<br>Activities)
+                                    제출 후 활동<br>(Post-Submittal<br>Activities)
                                 </p>
                             </li>
                         </ol>
@@ -80,7 +80,7 @@
                             <ul class="list">
                                 <li>
                                     <a href="/en/internal_consulting/orders_process.php">
-                                        <img src="/en/assets/images/ourservice/img_link01.png" alt="수주 프로세스 구축 컨설팅">
+                                        <img src="/en/assets/images/ourservice/img_link01.png" alt="Consulting to construct an order process">
                                     </a>
                                 </li>
                             </ul>
@@ -115,11 +115,11 @@
                         </div>
                         <div>
                             <ul class="list">
-                                <!--<li>
+                                <li>
                                     <a href="/en/abroad_consulting/competency.php">
                                         <img src="/en/assets/images/ourservice/img_link06.png" alt="역량 기술서 개발 컨설팅">
                                     </a>
-                                </li>-->
+                                </li>
                                 <li>
                                     <a href="/en/internal_consulting/business_consulting.php" class="link-7">
                                         <img src="/en/assets/images/ourservice/img_link07.png" alt="영업 컨설팅">
@@ -141,12 +141,12 @@
                                 </li>
                                 <li>
                                     <a href="/en/internal_consulting/business_diagnosis.php" class="link-10">
-                                        <img src="/en/assets/images/ourservice/img_link10.png" alt="수주 영업 진단 컨설팅">
+                                        <img src="/en/assets/images/ourservice/img_link10.png" alt="Order Sales Diagnosis Consulting 컨설팅">
                                     </a>
                                 </li>
                                 <li>
                                     <a href="/en/abroad_consulting/competition_pt.php" class="link-11">
-                                        <img src="/en/assets/images/ourservice/img_link11.png" alt="해외 경쟁 PT 컨설팅">
+                                        <img src="/en/assets/images/ourservice/img_link11.png" alt="Consulting for international competitive PT">
                                     </a>
                                 </li>
                             </ul>
@@ -212,7 +212,7 @@
                                 </li>
                                 <li>
                                     <a href="/en/expert_training/sales.php" class="link-21">
-                                        <img src="/en/assets/images/ourservice/img_link21.png" alt="B2B 세일즈 과정">
+                                        <img src="/en/assets/images/ourservice/img_link21.png" alt="B2B Sales Training">
                                     </a>
                                 </li>
                             </ul>
@@ -226,7 +226,7 @@
                                 </li>
                                 <li>
                                     <a href="/en/expert_training/strategy.php" class="link-23">
-                                        <img src="/en/assets/images/ourservice/img_link23.png" alt="전략 및 제안서 개발 과정">
+                                        <img src="/en/assets/images/ourservice/img_link23.png" alt="Training for Writing Strategy Statements and Proposals">
                                     </a>
                                 </li>
                             </ul>
@@ -244,7 +244,7 @@
                             <ul class="list">
                                 <li>
                                     <a href="/en/expert_training/special_lecture.php" class="link-25">
-                                        <img src="/en/assets/images/ourservice/img_link25.png" alt="수주 특강">
+                                        <img src="/en/assets/images/ourservice/img_link25.png" alt="Special Lecture for Winning a Business">
                                     </a>
                                 </li>
                             </ul>

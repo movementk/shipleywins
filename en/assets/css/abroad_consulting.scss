@@ -309,8 +309,10 @@ article {
     padding-top: 23px !important;
     @media(min-width: $sm) {
         padding-top: 70px !important;
+    }
+    @media(min-width: $lg) {
         .sub-nav {
-            height: 60px;
+            height: 82px;
             .dropdown-menu {
                 top: 0;
                 li {

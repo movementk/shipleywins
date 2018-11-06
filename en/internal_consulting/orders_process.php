@@ -11,11 +11,11 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development<span></span></a></li>
-                <li><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation<span></span></a></li>
                 <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting<span></span></a></li>
                 <li class="active"><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process<span></span></a></li>
                 <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting<span></span></a></li>
-                <li><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
                 <h2>Consulting to construct an order process</h2>
@@ -31,7 +31,7 @@
                 <ul>
                     <li>
                         <p>"It is a routine to write proposals all night long, but the order rate does not increase... Are we doing well?"</p>
-                        <small>- SI industry Company A Manager of Proposal Team, 000 -</small>
+                        <small>– SI industry Company A Manager of Proposal Team, 000 –</small>
                     </li>
                     <li>
                         <p>"As the business grows, I am going to have a team dedicated to proposing in-house, but I am not sure what to do."</p>
@@ -51,17 +51,17 @@
                 </figure>
                 <p>
                     The whole process of business development is divided into 7 stages (from market segmentation through negotiation and contract) to 96 steps.<br>
-                    Step by step define activities and decisions of C-levels, personnel, and other practitioners 
+                    Step by step define activities and decisions of C-levels, personnel, and other practitioners
                 </p>
                 <div class="btn-details">
-                    <a href="http://sbdl.shipleywins.com/" class="btn btn-lg btn-blue" target="_blank" role="button">자세히 보기</a>
+                    <a href="#" class="btn btn-lg btn-blue" role="button">See more</a>
                 </div>
             </div>
         </div>
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -69,15 +69,17 @@
                             <span>1</span>
                             <strong>Increase in revenue and profit margins</strong>
                             <p>
-                                The systematic order process will lead to increased order rates for businesses, and the higher order rates will lead to higher sales and profit margins. <br>
-								&#40;Net profit increased by 400% when business order rate increased by 25% *&#41; <br>
-                                * 글로벌 65개 회사 대상 조사 결과 (Business Development Institute International, 2013)
+                                he systematic order process will lead to increased order rates for businesses, and the higher order rates will lead to higher sales and profit margins. <br>
+                                <i class="attention">
+                                    (Net profit increased by 400% when business order rate increased by 25% *) 
+                                    * Global 65 Company Target Results (Business Development Institute International, 2013)
+                                </i>
                             </p>
                         </li>
                         <li>
                             <span>2</span>
-                            <strong>Manage business opportunities and obtain step-by-step instructions </strong>
-                            <p>The company can systematically manage business opportunities and obtain guidelines for business development activities. </p>
+                            <strong>Manage business opportunities and obtain step-by-step instructions</strong>
+                            <p>The company can systematically manage business opportunities and obtain guidelines for business development activities.</p>
                         </li>
                         <li>
                             <span>3</span>
@@ -93,11 +95,11 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>Consulting Overview and Process </h4>
+                    <h4>Outline of consulting and procedure</h4>
                     <ul class="dot-list">
                         <li>Schedule: 6 months</li>
                         <li>Scope: Business Development Process Assessment, Training (Business development, Proposal, Presentation), Process Design/Team Set up, Develop Guidebook for Business Development</li>
-                        <li>Process</li>
+                        <li>Procedure</li>
                     </ul>
                 </div>
                 <div class="article-content">
@@ -105,34 +107,34 @@
                         <!--<img src="/en/assets/images/internal_consulting/img_xs_order_process.jpg" class="img-responsive visible-xs" alt="">
                         <img src="/en/assets/images/internal_consulting/img_sm_order_process.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/internal_consulting/img_lg_order_process.jpg" class="img-responsive" alt="">
-                        <!--figcaption class="sr-only">
+                        <figcaption class="sr-only">
                             <ol>
                                 <li>
-                                    <h5>Change in awareness</h5>
-                                    <p>Executive change workshop, special lecture to increase awareness of issues in the workplace </p>
+                                    <h5>인식변화</h5>
+                                    <p>임원진 변화워크숍, 특강으로 사내 문제의식 강화</p>
                                 </li>
                                 <li>
-                                    <h5>Process Diagnostics</h5>
-                                    <p>Five DBMB-CMM Order Process and Proposal Diagnosis</p>
+                                    <h5>프로세스 진단</h5>
+                                    <p>BD-CMM 5개 항목으로 수주 프로세스와 제안서 진단</p>
                                 </li>
                                 <li>
-                                    <h5>Process design</h5>
-                                    <p>analyzing customer purchasing stage, step-by-step activity / input / output / deriving R&amp;R, and plan execution for the new process </p>
+                                    <h5>프로세스 디자인</h5>
+                                    <p>고객구매단계 분석, 단계별 활동/투입/산출물/R&amp;R 도출, 액션플랜 수립으로 신규프로세스 디자인</p>
                                 </li>
                                 <li>
-                                    <h5>Process documentation</h5>
-                                    <p>Create process guides that customize new process in-process activities, tools, R&amp;R and Shipley's order/offer principles</p>
+                                    <h5>프로세스 문서화</h5>
+                                    <p>신규 프로세스 가이드 교육과 더불어 쉬플리의 수주영업/제안/PT 교육 진행</p>
                                 </li>
                                 <li>
-                                    <h5>Internalization of the process</h5>
-                                    <p>New process guide training, plus Shipley's order sales/proposal / PT training (identify success cases with prototype projects when necessary)</p>
+                                    <h5>프로세스 내재화</h5>
+                                    <p>신규 프로세스 가이드 교육과 더불어 쉬플리의 수주영업/제안/PT 교육 진행 (필요시 파일럿 프로젝트로 Customer message 발굴)</p>
                                 </li>
                                 <li>
-                                    <h5>Process enforcement assessment</h5>
-                                    <p>take the time to apply the process, coach your team to share success cases and cause failures with an internal workshop, and assess performance</p>
+                                    <h5>프로세스 디자인</h5>
+                                    <p>프로세스 적용 기간을 갖고, 내부 적용워크숍으로 성공 사례 공유와 실패 원인에 대한 코칭을 제공하고 성과 평가 실시</p>
                                 </li>
                             </ol>
-                        </figcaption-->
+                        </figcaption>
                     </figure>
                 </div>
                 
@@ -149,10 +151,10 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>Team leader Hyun Tak Lee</dt>
+                                            <dt>B/D Team leader Hyun Tak Lee</dt>
                                             <dd>
                                                 <ul>
                                                     <li><i class="icon-phone"></i>02-862-8450</li>
@@ -168,7 +170,7 @@
                     <!--
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            성공사례 보기
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">

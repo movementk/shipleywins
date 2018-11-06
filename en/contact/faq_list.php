@@ -11,7 +11,7 @@
         <div class="container">
             <ul class="page-list">
                 <li class="active"><a href="/en/contact/faq_list.php">FAQ<span></span></a></li>
-<!--                <li><a href="#">인재 채용<span></span></a></li>-->
+                <li><a href="#">인재 채용<span></span></a></li>
                 <li><a href="/en/contact/location.php">찾아오시는 길<span></span></a></li>
             </ul>
             <div class="page-summary">

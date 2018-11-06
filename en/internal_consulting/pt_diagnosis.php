@@ -11,14 +11,14 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development<span></span></a></li>
-                <li><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation<span></span></a></li>
                 <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting<span></span></a></li>
                 <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process<span></span></a></li>
                 <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting<span></span></a></li>
-                <li class="active"><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅<span></span></a></li>
+                <li class="active"><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>진단 컨설팅</h2>
+                <h2>Diagnosis consulting</h2>
             </div>
         </div>
     </div>
@@ -29,19 +29,18 @@
         <div class="container">
             <div class="sub-nav dropdown">
                 <button class="btn btn-default dropdown-toggle" type="button" id="sub-nav-menu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                    PT Diagnosis Consulting 
+                    PT Diagnosis Consulting
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="sub-nav-menu">
-                    <li><a href="/en/internal_consulting/business_diagnosis.php">Order Sales Diagnosis Consulting </a></li>
+                    <li><a href="/en/internal_consulting/business_diagnosis.php">Order Sales Diagnosis Consulting</a></li>
                     <li><a href="/en/internal_consulting/proposal_diagnosis.php">Proposal Diagnostic Consulting</a></li>
-                    <li class="active"><a href="/en/internal_consulting/pt_diagnosis.php">PT Diagnosis Consulting </a></li>
+                    <li class="active"><a href="/en/internal_consulting/pt_diagnosis.php">PT Diagnosis Consulting</a></li>
                 </ul>
             </div>
-            <h4 class="sub-title">PT Diagnosis Consulting </h4>
+            <h4 class="sub-title">PT Diagnosis Consulting</h4>
             <p class="summary">
                 The evaluators are not persuaded by slides that are only glamorous and only show difficult skills.<br>
-                The presentation materials that affect the success or failure of an order, the nation's top order experts will give you a complete diagnosis and a solution for your presentation. 
-
+                The presentation materials that affect the success or failure of an order, the nation's top order experts will give you a complete diagnosis and a solution for your presentation.
             </p>
             <div class="presentation">
                 <h5>6 Critical Factors of Business Presentation</h5>
@@ -66,7 +65,7 @@
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -74,14 +73,14 @@
                             <span>1</span>
                             <strong>Systematic PT Analysis Based on 6 Perspectives</strong>
                             <p>
-                                The PT slides can be diagnosed using the 6 items 12 questions to determine the level of your PT slides that the Business PT should be configured to. 
+                                The PT slides can be diagnosed using the 6 items 12 questions to determine the level of your PT slides that the Business PT should be configured to.
                             </p>
                         </li>
                         <li>
                             <span>2</span>
                             <strong>Proposing a customized improvement by a professional counselor</strong>
                             <p>
-                                By presenting an improvement proposal presentation expert to identify problems and accept them to improve the data and improve the quality of PT slides. 
+                                By presenting an improvement proposal presentation expert to identify problems and accept them to improve the data and improve the quality of PT slides.
                             </p>
                         </li>
                     </ol>
@@ -91,44 +90,22 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>Consulting Overview and Process</h4>
+                    <h4>Outline of consulting and procedure</h4>
                     <ul class="dot-list">
                         <li>Schedule : Within 7 days</li>
-                        <li>Diagnosis method : : Interview the relevant persons and PT materials review</li>
-                        <li>Process</li>
+                        <li>Diagnosis method : Interview the relevant persons and PT materials review</li>
+                         <li>Procedure </li>
                     </ul>
                 </div>
                 <div class="article-content">
                     <figure>
-                        <!--<img src="/en/assets/images/internal_consulting/img_xs_pt_diagnosis.jpg" class="img-responsive visible-xs" alt="">
-                        <img src="/en/assets/images/internal_consulting/img_sm_pt_diagnosis.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/internal_consulting/img_lg_pt_diagnosis.jpg" class="img-responsive" alt="">
-                        <!--figcaption class="sr-only">
-                            <ol>
-                                <li>
-                                    <h5>사전인터뷰</h5>
-                                    <p>산업 특성에 따른 영업 특징, 영업 정보 등을 기반으로 기업 니즈 확인</p>
-                                </li>
-                                <li>
-                                    <h5>자료 수신</h5>
-                                    <p>진단의뢰 자료 수신 및 진행일정 협의 </p>
-                                </li>
-                                <li>
-                                    <h5>맞춤형 진단 수행</h5>
-                                    <p>국내/해외 등 사업 특징 및 목적을 고려하여 진단</p>
-                                </li>
-                                <li>
-                                    <h5>진단 결과 공유</h5>
-                                    <p>결과 보고서 제공 및 방문하여 개선방안 공유</p>
-                                </li>
-                            </ol>
-                        </figcaption-->
                     </figure>
                 </div>
                 <div class="tab-panel">
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-1" aria-expanded="false" aria-controls="collapse-consulting-1">
-                            컨설팅 문의하기
+                            Consulting inquiry
                         </a>
                         <div class="collapse" id="collapse-consulting-1">
                             <div class="well">
@@ -138,13 +115,13 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>김준연 팀장</dt>
+                                            <dt>Joon Yeon Kim, Manager</dt>
                                             <dd>
                                                 <ul>
-                                                    <li><i class="icon-phone"></i>02-862-8450</li>
+                                                    <li><i class="icon-phone"></i> 02-862-8450</li>
                                                     <li><i class="icon-mail"></i><a href="mailto:jamie@shipleywins.co.kr">jamie@shipleywins.co.kr</a></li>
                                                 </ul>
                                             </dd>
@@ -157,7 +134,7 @@
                     <!--
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            성공사례 보기
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">

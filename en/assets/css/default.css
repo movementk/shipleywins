@@ -1,8 +1,13 @@
-@import url("//fonts.googleapis.com/css?family=Noto+Sans:400,700");
+@import url(//cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
 @import url("//fonts.googleapis.com/css?family=Lato:300,400,700,900");
 @import url("//fonts.googleapis.com/css?family=Maven+Pro:400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600");
 @import url("//fonts.googleapis.com/css?family=Roboto");
+@font-face {
+  font-family: 'Daehan';
+  font-style: normal;
+  font-weight: 400;
+  src: url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff2") format("woff2"), url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff") format("woff"); }
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0; }
@@ -420,7 +425,8 @@ body {
   position: relative;
   font-size: 12px;
   color: #666;
-  font-family: 'Noto Sans', sans-serif; }
+  font-family: 'NanumSquare', sans-serif;
+  word-break: keep-all; }
   @media (min-width: 768px) {
     body {
       font-size: 15px; } }
@@ -448,7 +454,7 @@ body {
     #header > .logo > a {
       display: block; }
       #header > .logo > a img {
-        width: 160px; }
+        width: 130px; }
   #header .btn {
     position: absolute;
     top: 15px;
@@ -489,9 +495,9 @@ body {
     #header {
       height: 132px; }
       #header .logo {
-        margin-top: 42px; }
+        margin-top: 38px; }
         #header .logo a img {
-          width: 255px; }
+          width: 220px; }
       #header .btn {
         top: 35px;
         font-size: 31px; }
@@ -505,9 +511,9 @@ body {
     #header {
       height: 160px; }
       #header .logo {
-        margin-top: 56px; }
+        margin-top: 40px; }
         #header .logo a img {
-          width: 255px; }
+          width: 225px; }
       #header .btn {
         top: 45px;
         font-size: 35px; }
@@ -815,7 +821,7 @@ body {
       .gnb-opened #gnb-nav .nav-container > ul > li > a {
         position: relative;
         display: inline-block;
-        font-size: 20px;
+        font-size: 18px;
         color: #2b2b2b;
         font-weight: bold;
         text-decoration: none; }
@@ -848,8 +854,9 @@ body {
         padding: 40px 0 10px; }
         .gnb-opened #gnb-nav .nav-container > ul > li.active > ul > li > a {
           display: inline-block;
-          font-size: 14px;
+          font-size: 12px;
           color: #666;
+          letter-spacing: -.5px;
           line-height: 40px;
           font-weight: 400;
           text-decoration: none;
@@ -1118,7 +1125,7 @@ body {
     .scrolled #header {
       height: 100px; }
       .scrolled #header .logo {
-        margin-top: 25px; }
+        margin-top: 20px; }
       .scrolled #header .btn {
         top: 24px; }
         .scrolled #header .btn .icon img {
@@ -1127,7 +1134,7 @@ body {
     .scrolled #header {
       height: 120px; }
       .scrolled #header .logo {
-        margin-top: 34px; }
+        margin-top: 25px; }
       .scrolled #header .btn {
         top: 30px; }
         .scrolled #header .btn .icon img {

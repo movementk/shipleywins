@@ -14,7 +14,7 @@
                 <li><a href="/en/expert_training/strategy.php">Training for Writing Strategy Statements and Proposals<span></span></a></li>
                 <li><a href="/en/expert_training/proposal_pt.php">Proposal Presentation Training<span></span></a></li>
                 <li><a href="/en/expert_training/special_lecture.php">Special Lecture for Winning a Business<span></span></a></li>
-                <!--<li><a href="/en/expert_training/open_seminar.php">공개 세미나<span></span></a></li>-->
+                <!--li><a href="/en/expert_training/open_seminar.php">공개 세미나<span></span></a></li-->
             </ul>
             <div class="page-summary">
                 <h2>B2B Sales Training</h2>
@@ -36,7 +36,7 @@
         <article class="learning-content">
             <div class="container">
                 <div class="article-header">
-                    <h4>Expected Outcome</h4>
+                    <h4>Key Training Contents (16-hour curriculum)</h4>
                 </div>
                 <div class="article-content">
                     <div class="wt-box">
@@ -69,7 +69,7 @@
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-					<h4>Key Training Contents <small>(16-hour curriculum)</small></h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="row">
@@ -116,10 +116,10 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            교육 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>Team leader Hyun Tak Lee</dt>
+                                            <dt>B/D Team leader Hyun Tak Lee</dt>
                                             <dd>
                                                 <ul>
                                                     <li><i class="icon-phone"></i>02-862-8450</li>
@@ -133,10 +133,10 @@
                         </div>
                     </div>
                     <div class="consulting-panel">
-                        <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
+                        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="true" aria-controls="collapse-consulting-2">
                             Customer Review
                         </a>
-                        <div class="collapse" id="collapse-consulting-2">
+                        <div class="collapse in" id="collapse-consulting-2" aria-expanded="true" style="">
                             <div class="well">
                                 <div class="message">
                                     <ul>
@@ -165,20 +165,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--
-                    <div class="consulting-panel">
-                        <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-3" aria-expanded="false" aria-controls="collapse-consulting-3">
-                            공개 세미나에 참석하고 싶다면?
-                        </a>
-                        <div class="collapse" id="collapse-consulting-3">
-                            <div class="well">
-                                <div class="seminar">
-                                    내용 없음
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    -->
                 </div>
             </div>
         </article>

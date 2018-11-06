@@ -3,6 +3,30 @@
 .expert-training {
     .page-header {
         background-image: url(/en/assets/images/expert_training/bg_expert_training_header.jpg);
+        @media(min-width: $sm) {
+            .page-list {
+                li {
+                    a {
+                        margin-bottom: 15px;
+                    }
+                }
+            }
+            .page-summary {
+                margin-top: 30px;
+            }
+        }
+        @media(min-width: $lg) {
+            .page-list {
+                li {
+                    a {
+                        margin-bottom: 0;
+                    }
+                }
+            }
+            .page-summary {
+                margin-top: 50px;
+            }
+        }
     }
     #content {
         padding: 60px 0 105px;
@@ -29,6 +53,7 @@
         }
     }
 }
+
 
 article {
     .article-header {
@@ -128,7 +153,7 @@ article {
                     }
                     > div {
                         width: 100%;
-                        height: 180px;
+                        height: 210px;
                         padding: 30px 40px 0; 
                         margin: 0 auto;
                         border: 5px solid #999;
@@ -276,7 +301,7 @@ article {
                     }
                     > div {
                         width: 100%;
-                        height: 180px;
+                        height: 200px;
                         padding: 30px 40px 0; 
                         margin: 0 auto;
                         border: 5px solid #999;
@@ -292,6 +317,39 @@ article {
                             color: #333;
                             line-height: 26px;
                         }
+                    }
+                }
+            }
+        }
+    }
+    .perspective {
+        margin-top: 30px;
+        opacity: .6;
+        dt {
+            font-size: 13px;
+            color: #666;
+            font-weight: 400;
+        }
+        dd {
+            margin-top: 20px;
+            ul {
+                li {
+                    font-size: 13px;
+                    color: #666;
+                    line-height: 25px;
+                }
+            }
+        }
+        @media(min-width: $sm) {
+            margin-top: 45px;
+            dt {
+                font-size: 14px;
+            }
+            dd {
+                margin-top: 10px;
+                ul {
+                    li {
+                        font-size: 14px;
                     }
                 }
             }
@@ -513,7 +571,7 @@ article {
                     }
                     > div {
                         width: 100%;
-                        height: 180px;
+                        height: 240px;
                         padding: 30px 40px 0; 
                         margin: 0 auto;
                         border: 5px solid #999;
@@ -571,8 +629,9 @@ article {
                     li {
                         padding-left: 5px;
                         padding-right: 5px;
-                        width: 20% !important;
+                        width: 33.33% !important;
                         > div {
+                            height: 200px;
                             margin-top: 0 !important;
                             padding: 20px 20px 0;
                         }
@@ -673,10 +732,10 @@ article {
                                 }
                                 &:nth-of-type(1) {
                                     p {
-                                        width: 240px;
+                                        width: 300px;
                                     }
                                     text-align: left;
-                                    padding: 20px 30px;
+                                    padding: 20px 10px;
                                 }
                                 &.expiration {
                                     background-color: #efefef;
@@ -721,6 +780,60 @@ article {
                     width: 15px;
                     height: 15px;
                     background-color: #efefef;
+                }
+            }
+            .reference {
+                margin-top: 20px;
+                @media(min-width: $sm) {
+                    margin-top: 30px;
+                }
+                > p {
+                    position: relative;
+                    padding-left: 20px;
+                    font-size: 13px;
+                    color: #666;
+                    font-weight: 400;
+                    line-height: 24px;
+                    &:before {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        content: "※";
+                    }
+                    @media(min-width: $sm) {
+                        font-size: 15px;
+                        line-height: 28px;
+                    }
+                }
+                h6 {
+                    font-size: 14px;
+                    color: #333;
+                    font-weight: 600;
+                    margin: 20px 0 10px;
+                    @media(min-width: $sm) {
+                        margin: 30px 0 15px;
+                        font-size: 16px;
+                    }
+                }
+                ul {
+                    li {
+                        position: relative;
+                        font-size: 13px;
+                        color: #666;
+                        font-weight: 400;
+                        line-height: 24px;
+                        padding-left: 15px;
+                        &:before {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            content: "·";
+                        }
+                        @media(min-width: $sm) {
+                            font-size: 15px;
+                            line-height: 28px;
+                        }
+                    }
                 }
             }
             .btn-area {

@@ -11,14 +11,14 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development<span></span></a></li>
-                <li class="active"><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅<span></span></a></li>
+                <li class="active"><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation<span></span></a></li>
                 <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting<span></span></a></li>
                 <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process<span></span></a></li>
                 <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting<span></span></a></li>
-                <li><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>국내 수주 PT 컨설팅</h2>
+                <h2>Domestic orders PT consulting</h2>
             </div>
         </div>
     </div>
@@ -38,13 +38,13 @@
             </div>
             <h4 class="sub-title">Company Presentation Consultation</h4>
             <p class="summary">
-                Does the PT slide introduce the company filled with history and technical descriptions that no one cares about? The purpose of the Company introduction PT is also to " Selling." This means that a successful company presentation must stay on the Selling Point and Customer-focus. Shipley's Company Presentation Consulting offers the solution. 
+                Does the PT slide introduce the company filled with history and technical descriptions that no one cares about? The purpose of the Company introduction PT is also to " Selling." This means that a successful company presentation must stay on the Selling Point and Customer-focus. Shipley's Company Presentation Consulting offers the solution.
             </p>
         </div>
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -52,7 +52,7 @@
                             <span>1</span>
                             <strong>PT with clear Selling Point</strong>
                             <p>
-                                Company introduction materials are also part of sales materials. You can develop a company introduction presentation that effectively represents your solutions to your customer's needs and value beyond company history and technology descriptions. 
+                                Company introduction materials are also part of sales materials. You can develop a company introduction presentation that effectively represents your solutions to your customer's needs and value beyond company history and technology descriptions.
                             </p>
                         </li>
                         <li>
@@ -66,7 +66,7 @@
                             <span>3</span>
                             <strong>A balance between logical persuasion and emotional confidence</strong>
                             <p>
-                                The presentation should be both logical and emotionally reliable. The body of the presentation consists of persuasive contents, and the opening and closing should be able to use the emotional slides to affect the customer's perception and emotion. 
+                                The presentation should be both logical and emotionally reliable. The body of the presentation consists of persuasive contents, and the opening and closing should be able to use the emotional slides to affect the customer's perception and emotion.
                             </p>
                         </li>
                     </ol>
@@ -76,30 +76,14 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>Process</h4>
+                    <h4>Procedure</h4>
                 </div>
                 <div class="article-content">
                     <figure>
-                        <!--<img src="/en/assets/images/internal_consulting/img_xs_introduction_process.jpg" class="img-responsive visible-xs" alt="">
-                        <img src="/en/assets/images/internal_consulting/img_sm_introduction_process.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/internal_consulting/img_lg_introduction_process.jpg" class="img-responsive" alt="">
-                        <!--figcaption class="sr-only">
-                            <ol>
-                                <li>PT Lessons</li>
-                                <li>Strategy Workshop</li>
-                                <li>Story-line Workshop</li>
-                                <li>PT Slide First Review</li>
-                                <li>PT Slide Second Review</li>
-                                <li>PR 슬라이드 디자인</li>
-                                <li>최종리뷰</li>
-                                <li>스크립트 리뷰</li>
-                                <li>발표자 코칭</li>
-                                <li>Q&amp;A 준비</li>
-                            </ol>
-                        </figcaption-->
                     </figure>
                 </div>
-                <p class="note">Graphic design is by <i>NON DESIGN</i>, a subsidiary of Shipley Korea, and printing/production is through a security certified printing center.</p>
+                <p class="note">Graphic design is performed by <i>NON DESIGN</i>, a subsidiary of Shipley  Korea , and Print/Production is done by a subcontractor that has certified for treatment of confidential materials. </p>
                 <div class="tab-panel">
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-1" aria-expanded="false" aria-controls="collapse-consulting-1">
@@ -113,10 +97,10 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>Team leader Hyun Tak Lee</dt>
+                                            <dt>B/D Team leader Hyun Tak Lee</dt>
                                             <dd>
                                                 <ul>
                                                     <li><i class="icon-phone"></i>02-862-8450</li>
@@ -130,48 +114,44 @@
                         </div>
                     </div>
                     <div class="consulting-panel">
-                        <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            성공사례 보기
+                        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="true" aria-controls="collapse-consulting-2">
+                            Customer message
                         </a>
-                        <div class="collapse" id="collapse-consulting-2">
+                        <div class="collapse in" id="collapse-consulting-2" aria-expanded="true" style="">
                             <div class="well">
                                 <div class="success">
-                                    <h4 class="sucess-title">한미약품, 8조원 규모 수출 계약 달성</h4>
+                                    <h4 class="sucess-title">Hanmi Pharm won 8 trillion won scale export contracts</h4>
                                     <figure>
-                                        <img src="/en/assets/images/internal_consulting/img_xs_hanmi.jpg" class="img-responsive hidden-md hidden-lg" alt="">
-                                        <img src="/en/assets/images/internal_consulting/img_lg_hanmi.jpg" class="img-responsive visible-md visible-lg" alt="">
+                                        <img src="/en/assets/images/abroad_consulting/img_xs_hanwha.jpg" class="img-responsive hidden-md hidden-lg" alt="">
+                                        <img src="/en/assets/images/abroad_consulting/img_lg_hanwha.jpg" class="img-responsive visible-md visible-lg" alt="">
                                     </figure>
                                     <article class="challenge">
                                         <h5>Challenge</h5>
                                         <hr>
-                                        <p class="summary">
-                                            글로벌 제약/바이오 분야의 최고 권위를 가진 JP 모건 글로벌 헬스케어 컨퍼런스에 초청장을 받게 된 한미약품은 아래와 같은 이슈가 잇었다.
-                                        </p>
+                                        <p class="summary">Hanmi Pharm was invited to the Global Healthcare Conference, organized by JP Morgan, which is the most prestigious among global pharmaceuticals/biotechnology. However, Hanmi Phram had following issues.</p>
                                         <ul class="dot-list">
                                             <li>
-                                                JP 모건 컨퍼런스에서 제약/바이오 기업 경영자들과 투자자를 대상으로 진행할 프레젠테이션에 성공하는 것이 마케팅을 위해 매우 중요했음
+                                                Hanmi Phram continuously invested to R&amp;D as much as about 1 trillion won during the past 10 years, and was desperate to promote international marketing to harvest the fruits.
                                             </li>
                                             <li>
-                                                한미약품은 10년 간, 1조원의 꾸준한 R&amp;D 투자를 실시하였으며 그 결실을 위해 신약의 해외 홍보 마케팅이 절실한 상황이었음
+                                                It was so important to give impressive presentation to CEOs of pharmaceutical/bio companies at the JP Morgan's conference for effective marketing.
                                             </li>
                                             <li>
-                                                프레젠테이션에서 한미약품의 R&amp;D 투자 결과물인 신약의 차별성과 시장성을 경영자들과 투자자들에게 어떻게 잘 전달할 수 있을지에 대한 고민이 많았음
+                                                They had a hard time to find how to effectively deliver distinctiveness and marketability of new drugs, the outcome of Hanmi Pharm's R&amp;D investment.
                                             </li>
                                         </ul>
                                     </article>
                                     <article class="solution">
                                         <h5>Solution</h5>
                                         <hr>
-                                        <p class="summary">
-                                            쉬필리코리아는 한미약품에 PT 컨설팅을 수행하였다. 약 2개월의 컨설팅 기간 동안 4명의 컨설턴트가 참여하였다. PT 전략 개발과 PT 슬라이드 개발 그래픽 디자인, 발표자 코칭 등을 고객사 TFT와 함께 수행 하였다.
-                                        </p>
+                                        <p class="summary">Shipley Korea conducted PT consulting for Hanmi Pharm. Four consultants participated in consulting for about 2 months. They together with TFT of the client focused on PT strategy development, PT slide development, graphic design, and speaker coaching.</p>
                                         <ul class="dot-list">
-                                            <li>전략 개발 단계 : 전략 워크샵</li>
-                                            <li>스토리 라인 개발 단계 : 스토리 라인 워크샵</li>
-                                            <li>PT 개발 단계 : PT 슬라이드 리뷰/코칭, 스크립트 리뷰/코칭</li>
-                                            <li>PT 디자인 단계 : PT 슬라이드 그래픽 디자인</li>
-                                            <li>Q&amp;A 준비 : 주요 질의응답 리스트 업(list-up) 및 답변 코칭</li>
-                                            <li>발표자 코칭 : 발표자 발표 코칭</li>
+                                            <li>Strategy development step: strategy workshop</li>
+                                            <li>Storyline development step: storyline workshop</li>
+                                            <li>PT development step: PT slide review/coaching, script review/coaching</li>
+                                            <li>PT design step: graphic design for PT slides</li>
+                                            <li>Q&amp;A preparation: list-up of major questions and answers as well as answering coaching</li>
+                                            <li>Speaker coaching: Speaker presentation coaching</li>
                                         </ul>
                                     </article>
                                     <article class="result">
@@ -179,25 +159,22 @@
                                         <hr>
                                         <ul class="dot-list">
                                             <li>
-                                                한미약품 이관순 대표 ‘제33회 JP모건(Morgan) 헬스케어 컨퍼런스’에 참석해 14일 진행된 아시아 세션(Emerging Markets Tracks)에서 한미약품 비전과 24건의 혁신신약 파이프라인, 퀀텀 프로젝트를 성공리에 발표하였다.
+                                                Kwan Soon Lee, CEO of Hanmi Pharm, attended 'The 33rd JP Morgan Healthcare Conference' and gave a successful presentation about Hanmin Pharm's vision, 24 innovative drug pipelines and quantum project at the Asia session (Emerging Markets Tracks).
                                             </li>
                                             <li>
-                                                PT의 성공에 힘입어, 2015년 하반기 프랑스 사노피와 5조원, 미국 얀센과 1조원의 수출 계약 등 약 8조원의 수출 계약 달성
+                                                Thanks to the successful PT, Hanmi Pharm was able to win a total of 8 trillion won scale export contracts in the second half of 2015 including 5 trillion won scale contract with Sanofi of France, and 1 trillion won scale export contract with Janssen of the US.
                                             </li>
                                         </ul>
                                     </article>
-                                    <!-- <article class="message">
-                                        <h5 class="nns">고객의 메시지</h5>
+                                    <article class="message">
+                                        <h5 class="nns">Customer message</h5>
                                         <div class="square-box">
                                             <p class="caption">
-                                                "쉬플리코리아 컨설팅을 통해 만든 PT 슬라이드가 성공적인 프레젠테이션의 근간이 되었습니다"
+                                                “We gave a successful IR presentation  at ‘The 33rd Global Healthcare Conference’ organized by JP Morgan. Initially, I was worried about how I could deliver distinctiveness of Hanmi Pharm’s new drugs to investors and buyers from all around the world within as short as 30 min. However, we together with consultants of Shipley Korea planned a PT strategy based on clients’ needs, not based on characteristics of our products, which was effective to convey the R&amp;D pipeline of Hanmi Pharm.” 
                                             </p>
-                                            <small>- 한미약품 박OO 이사 -</small>
+                                            <small>- Noh Seok Park, IR  Director of Hanmi Pharm -</small>
                                         </div>
-                                        <figure>
-                                            <img src="/en/assets/images/internal_consulting/img_hanmi.jpg" class="img-responsive" alt="">
-                                        </figure>
-                                    </article> -->
+                                    </article>
                                 </div>
                             </div>
                         </div>

@@ -11,13 +11,13 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/company/greeting.php">CEO's Message<span></span></a></li>
-                <li><a href="/en/company/introduce.php">회사소개<span></span></a></li>
+                <li><a href="/en/company/introduce.php">Company introduction<span></span></a></li>
                 <li><a href="/en/company/history.php">Major History of Shipley Korea<span></span></a></li>
-                <li class="active"><a href="/en/company/partner.php">고객사<span></span></a></li>
-<!--                <li><a href="/en/company/succession_case.php">성공사례<span></span></a></li>-->
+                <li class="active"><a href="/en/company/partner.php">Client company<span></span></a></li>
+                <li><a href="/en/company/succession_case.php">Customer message<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>고객사</h2>
+                <h2>Client company</h2>
             </div>
         </div>
     </div>

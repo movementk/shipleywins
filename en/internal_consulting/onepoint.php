@@ -11,11 +11,11 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development<span></span></a></li>
-                <li><a href="/en/internal_consulting/competition_pt.php">국내 수주 PT 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation<span></span></a></li>
                 <li class="active"><a href="/en/internal_consulting/onepoint.php">One Point Consulting<span></span></a></li>
                 <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process<span></span></a></li>
                 <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting<span></span></a></li>
-                <li><a href="/en/internal_consulting/business_diagnosis.php">진단 컨설팅<span></span></a></li>
+                <li><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
                 <h2>One Point Consulting</h2>
@@ -43,9 +43,9 @@
                             <span>1</span>
                             <strong>Proposed Strategy One Point consulting</strong>
                             <p>Strategy workshops can help you develop a strategy that distinguishes you from your competition.</p>
-                            <div class="details-btn">
-                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-1">제안 전략 원포인트 컨설팅 상세 보기</a>
-                            </div>
+                            <!--<div class="details-btn">
+                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-1">제안전략 One Point Consulting 상세 보기</a>
+                            </div>-->
                         </li>
                         <li>
                             <span>2</span>
@@ -53,9 +53,9 @@
                             <p>
                                 The Shipley Korea counselors will visit your office after the proposal review and guide the areas to be corrected. Identify the issues with existing proposals and improve the structure and content of proposals.
                             </p>
-                            <div class="details-btn">
-                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-2">제안서 원포인트 컨설팅 상세보기</a>
-                            </div>
+                            <!--<div class="details-btn">
+                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-2">제안서 One Point Consulting 상세보기</a>
+                            </div>-->
                         </li>
                         <li>
                             <span>3</span>
@@ -63,9 +63,9 @@
                             <p>
                                 You will be able to develop effective PTs by extracting the main messages of the story, table of contents, and from the slides of the presentation.
                             </p>
-                            <div class="details-btn">
-                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-3">PT 원포인트 컨설팅 상세보기</a>
-                            </div>
+                            <!--<div class="details-btn">
+                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-3">PT One Point Consulting 상세보기</a>
+                            </div>-->
                         </li>
                     </ol>
                 </div>
@@ -76,8 +76,8 @@
                 <div class="article-header">
                     <h4>Companies that need one-point consulting</h4>
                 </div>
-				<div class="article-content">
-					<ol class="point-list">
+                <div class="article-content">
+                    <ol class="point-list">
                         <li>
                             <div>
                                 <span>01</span>
@@ -103,7 +103,7 @@
                             </div>
                         </li>
                     </ol>
-				</div>
+                </div>
             </div>
             <div class="container">
                 <div class="tab-panel">
@@ -119,10 +119,10 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>Team leader Hyun Tak Lee</dt>
+                                            <dt>B/D Team leader Hyun Tak Lee</dt>
                                             <dd>
                                                 <ul>
                                                     <li><i class="icon-phone"></i>02-862-8450</li>
@@ -136,10 +136,10 @@
                         </div>
                     </div>
                     <div class="consulting-panel">
-                        <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="true" aria-controls="collapse-consulting-2">
+                        <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="true" aria-controls="collapse-consulting-2">
                             Customer message
                         </a>
-                        <div class="collapse" id="collapse-consulting-2" aria-expanded="true" style="">
+                        <div class="collapse in" id="collapse-consulting-2" aria-expanded="true" style="">
                             <div class="well">
                                 <div class="message">
                                     <ul>

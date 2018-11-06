@@ -1,8 +1,13 @@
-@import url("//fonts.googleapis.com/css?family=Noto+Sans:400,700");
+@import url(//cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
 @import url("//fonts.googleapis.com/css?family=Lato:300,400,700,900");
 @import url("//fonts.googleapis.com/css?family=Maven+Pro:400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600");
 @import url("//fonts.googleapis.com/css?family=Roboto");
+@font-face {
+  font-family: 'Daehan';
+  font-style: normal;
+  font-weight: 400;
+  src: url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff2") format("woff2"), url("//cdn.jsdelivr.net/korean-webfonts/1/corps/yoon/Daehan/DaehanR.woff") format("woff"); }
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0; }
@@ -601,17 +606,18 @@ article.process .dot-list {
   padding-top: 23px !important; }
   @media (min-width: 768px) {
     .specialization {
-      padding-top: 70px !important; }
-      .specialization .sub-nav {
-        height: 60px; }
-        .specialization .sub-nav .dropdown-menu {
-          top: 0; }
-          .specialization .sub-nav .dropdown-menu li {
-            width: 20%; }
-            .specialization .sub-nav .dropdown-menu li a {
-              border-bottom: 1px solid #e0e0e0; }
-            .specialization .sub-nav .dropdown-menu li:nth-of-type(5) a {
-              border-right: 1px solid #e0e0e0; } }
+      padding-top: 70px !important; } }
+  @media (min-width: 1200px) {
+    .specialization .sub-nav {
+      height: 82px; }
+      .specialization .sub-nav .dropdown-menu {
+        top: 0; }
+        .specialization .sub-nav .dropdown-menu li {
+          width: 20%; }
+          .specialization .sub-nav .dropdown-menu li a {
+            border-bottom: 1px solid #e0e0e0; }
+          .specialization .sub-nav .dropdown-menu li:nth-of-type(5) a {
+            border-right: 1px solid #e0e0e0; } }
   @media (min-width: 992px) {
     .specialization {
       padding-top: 110px !important; }

@@ -11,11 +11,11 @@
         <div class="container">
             <ul class="page-list">
                 <li><a href="/en/abroad_consulting/proposal.php">Consulting for development of international proposal<span></span></a></li>
-                <li class="active"><a href="/en/abroad_consulting/competition_pt.php">Consulting for international competitive PT<span></span></a></li>
+                <li class="active"><a href="/en/abroad_consulting/competition_pt.php">overseas orders PT consulting<span></span></a></li>
                 <li><a href="/en/abroad_consulting/strategy.php">International specialization<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>Consulting for international competitive PT</h2>
+                <h2>overseas orders PT consulting</h2>
             </div>
         </div>
     </div>
@@ -35,14 +35,14 @@
             </div>
             <h4 class="sub-title">Investment  attraction PT consulting</h4>
             <p class="summary">
-                At critical moments internally and externally such as new product launching, new project presentation, and investment, you need  presentation that aims to get paid attentions from audience, investors, and buyers.<br>
+                At critical moments internally and externally such as new product launching, new project presentation, and investment, you need  presentation that aims to get paid attentions from audience, investors, and buyers.<br><br>
                 It is possible to develop presentation slides supporting emotional persuasion and logical agreement and presentation skill overwhelming the audience if you are with Shipley Korea.
             </p>
         </div>
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>Benefit</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -50,8 +50,8 @@
                             <span>1</span>
                             <strong>Development  of PT that makes even laymen easily understand</strong>
                             <ul class="dot-list">
-                                <li>You will be able to develop presentation slides that are based on client –focused message enabling to overwhelm the audience (investors). </li>
-                                <li>You will improve your PT slides that were full of difficult technical terms to ones that even laymen can easily understand.  </li>
+                                <li>You will be able to develop presentation slides that are based on client –focused message enabling to overwhelm the audience (investors).</li>
+                                <li>You will improve your PT slides that were full of difficult technical terms to ones that even laymen can easily understand.</li>
                             </ul>
                         </li>
                         <li>
@@ -59,7 +59,7 @@
                             <strong>Coaching  customized for speaker and international specialization service</strong>
                             <ul class="dot-list">
                                 <li>We provide coaching customized for speaker according to individual’s characteristics</li>
-                                <li>We  apply our know-how of PT consulting for important international projects in industries such as pharmaceuticals/ construction/ tax-free business/ private equity fund/ manufacture, and we can also provide services specialized for region and project through dispatching international consultants.    </li>
+                                <li>We  apply our know-how of PT consulting for important international projects in industries such as pharmaceuticals/ construction/ tax-free business/ private equity fund/ manufacture, and we can also provide services specialized for region and project through dispatching international consultants.</li>
                             </ul>
                         </li>
                     </ol>
@@ -69,7 +69,7 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>Outline of consulting and process</h4>
+                    <h4>Outline of consulting and procedure</h4>
                     <ul class="dot-list">
                         <li>Required time : 1 month</li>
                         <li>Standard amount: 30 slides</li>
@@ -78,39 +78,7 @@
                 </div>
                 <div class="article-content">
                     <figure>
-                        <!--<img src="/en/assets/images/abroad_consulting/img_xs_invest_process.jpg" class="img-responsive visible-xs" alt="">
-                        <img src="/en/assets/images/abroad_consulting/img_sm_invest_process.jpg" class="img-responsive visible-sm" alt="">-->
                         <img src="/en/assets/images/abroad_consulting/img_lg_invest_process.jpg" class="img-responsive" alt="">
-<!--
-                        <figcaption class="sr-only">
-                            <ol>
-                                <li>
-                                    <h5>Pre-training</h5>
-                                    <p>Kick-off meeting and TF Pre-training</p>
-                                </li>
-                                <li>
-                                    <h5>Strategy development and PT planning</h5>
-                                    <p>Strategy workshop and development of contents and storyline</p>
-                                </li>
-                                <li>
-                                    <h5>Story development</h5>
-                                    <p>Review  of story planning and making slides</p>
-                                </li>
-                                <li>
-                                    <h5>PT design</h5>
-                                    <p>Development  of standard template and design</p>
-                                </li>
-                                <li>
-                                    <h5>Proof reading &amp; Cleaning up</h5>
-                                    <p>영어 검수/수정</p>
-                                </li>
-                                <li>
-                                    <h5>Scripts development and speaker coaching</h5>
-                                    <p>Speaker scripts development and customized coaching</p>
-                                </li>
-                            </ol>
-                        </figcaption>
--->
                     </figure>
                 </div>
                 <p class="note">Graphic design is performed by <i>NON DESIGN</i>, a subsidiary of Shipley  Korea , and Print/Production is done by a subcontractor that has certified for treatment of confidential materials. </p>
@@ -127,13 +95,13 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
                                             <dt>Joon Yeon Kim, Manager</dt>
                                             <dd>
                                                 <ul>
-                                                    <li><i class="icon-phone"></i>02-862-8450</li>
+                                                    <li><i class="icon-phone"></i> 02-862-8450</li>
                                                     <li><i class="icon-mail"></i><a href="mailto:jamie@shipleywins.co.kr">jamie@shipleywins.co.kr</a></li>
                                                 </ul>
                                             </dd>
@@ -145,12 +113,12 @@
                     </div>
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            Success case
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">
                                 <div class="success">
-                                    <h4 class="sucess-title">Hanmi Pharm won 8 trillion won scale export contracts </h4>
+                                    <h4 class="sucess-title">Hanmi Pharm won 8 trillion won scale export contracts</h4>
                                     <figure>
                                         <img src="/en/assets/images/abroad_consulting/img_xs_hanwha.jpg" class="img-responsive hidden-md hidden-lg" alt="">
                                         <img src="/en/assets/images/abroad_consulting/img_lg_hanwha.jpg" class="img-responsive visible-md visible-lg" alt="">
@@ -164,10 +132,10 @@
                                                 Hanmi Phram continuously invested to R&amp;D as much as about 1 trillion won during the past 10 years, and was desperate to promote international marketing to harvest the fruits.
                                             </li>
                                             <li>
-                                                 It was so important to give impressive presentation to CEOs of pharmaceutical/bio companies at the JP Morgan's conference for effective marketing.
+                                                It was so important to give impressive presentation to CEOs of pharmaceutical/bio companies at the JP Morgan's conference for effective marketing.
                                             </li>
                                             <li>
-                                                 They had a hard time to find how to effectively deliver distinctiveness and marketability of new drugs, the outcome of Hanmi Pharm's R&amp;D investment.  
+                                                They had a hard time to find how to effectively deliver distinctiveness and marketability of new drugs, the outcome of Hanmi Pharm's R&amp;D investment.
                                             </li>
                                         </ul>
                                     </article>
@@ -192,22 +160,22 @@
                                                 Kwan Soon Lee, CEO of Hanmi Pharm, attended 'The 33rd JP Morgan Healthcare Conference' and gave a successful presentation about Hanmin Pharm's vision, 24 innovative drug pipelines and quantum project at the Asia session (Emerging Markets Tracks).
                                             </li>
                                             <li>
-                                                Thanks to the successful PT, Hanmi Pharm was able to win a total of 8 trillion won scale export contracts in the second half of 2015 including 5 trillion won scale contract with Sanofi of France, and 1 trillion won scale export contract with Janssen of the US. 
+                                                Thanks to the successful PT, Hanmi Pharm was able to win a total of 8 trillion won scale export contracts in the second half of 2015 including 5 trillion won scale contract with Sanofi of France, and 1 trillion won scale export contract with Janssen of the US.
                                             </li>
                                         </ul>
                                     </article>
-                                    <!-- <article class="message">
-                                        <h5 class="nns">고객의 메시지</h5>
+                                    <article class="message">
+                                        <h5 class="nns">Customer message</h5>
                                         <div class="square-box">
                                             <p class="caption">
-                                                “JP모건이 개최한 ‘제 33회 글로벌 헬스케어 컨퍼런스’에서 IR 프레젠테이션을 성공적으로 마쳤습니다. 30분이라는 짧은 발표 시간 동안 어떻게 하면 전 세계 투자자와 바이어들에게 한미약품의 신약의 차별성을 잘 전달할 수 있을지를 고민하였는데, 쉬플리코리아 컨설턴트들과 함께 우리 제품의 특징이 아닌 고객의 니즈에 기반하여 PT 전략을 뽑아 냈던 것이 한미약품의 R&amp;D 파이프라인을 잘 전달하는 데 효과적이었습니다.” 
+                                                “We gave a successful IR presentation  at ‘The 33rd Global Healthcare Conference’ organized by JP Morgan. Initially, I was worried about how I could deliver distinctiveness of Hanmi Pharm’s new drugs to investors and buyers from all around the world within as short as 30 min. However, we together with consultants of Shipley Korea planned a PT strategy based on clients’ needs, not based on characteristics of our products, which was effective to convey the R&amp;D pipeline of Hanmi Pharm.” 
                                             </p>
-                                            <small>- 한미약품, 박노석 IR 담당 이사 -</small>
+                                            <small>- Noh Seok Park, IR  Director of Hanmi Pharm -</small>
                                         </div>
-                                        <figure>
+                                        <!--<figure>
                                             <img src="/en/assets/images/abroad_consulting/img_message.jpg" class="img-responsive" alt="">
-                                        </figure>
-                                    </article> -->
+                                        </figure>-->
+                                    </article>
                                 </div>
                             </div>
                         </div>

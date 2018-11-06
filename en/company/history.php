@@ -4,31 +4,31 @@
 
 </head>
 <body class="sub company">
-	<?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/header.php'); ?>
-	<?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/nav.php'); ?>
-	<!-- Page Header -->
-	<div class="page-header">
-		<div class="container">
-			<ul class="page-list">
-				<li><a href="/en/company/greeting.php">CEO's Message<span></span></a></li>
-				<li><a href="/en/company/introduce.php">회사소개<span></span></a></li>
-				<li class="active"><a href="/en/company/history.php">Major History of Shipley Korea<span></span></a></li>
-				<li><a href="/en/company/partner.php">고객사<span></span></a></li>
-				<!--li><a href="/en/company/succession_case.php">성공사례<span></span></a></li-->
-			</ul>
-			<div class="page-summary">
-				<h2>Major History of Shipley Korea</h2>
-			</div>
-		</div>
-	</div>
-	<!-- //Page Header -->
-	
-	<!-- Content Start -->
-	<main id="content" class="history">
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/header.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/nav.php'); ?>
+    <!-- Page Header -->
+    <div class="page-header">
+        <div class="container">
+            <ul class="page-list">
+                <li><a href="/en/company/greeting.php">CEO's Message<span></span></a></li>
+                <li><a href="/en/company/introduce.php">Company introduction<span></span></a></li>
+                <li class="active"><a href="/en/company/history.php">Major History of Shipley Korea<span></span></a></li>
+                <li><a href="/en/company/partner.php">Client company<span></span></a></li>
+                <li><a href="/en/company/succession_case.php">Customer message<span></span></a></li>
+            </ul>
+            <div class="page-summary">
+                <h2>Major History of Shipley Korea</h2>
+            </div>
+        </div>
+    </div>
+    <!-- //Page Header -->
+    
+    <!-- Content Start -->
+    <main id="content" class="history">
 		<div class="container">
 			<div class="sub-nav dropdown">
 				<button class="btn btn-default dropdown-toggle" type="button" id="sub-nav-menu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-					Consulting
+					Consulting History
 				</button>
 				<ul class="dropdown-menu" aria-labelledby="sub-nav-menu">
 					<li class="active"><a href="/en/company/history.php">Consulting history</a></li>
@@ -390,8 +390,8 @@
 			</section>
 		</div>
 	</main>
-	<!-- //Content End -->
-	<?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/footer.php'); ?>
-	<?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/docfoot.php'); ?>
+    <!-- //Content End -->
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/footer.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/docfoot.php'); ?>
 </body>
 </html>

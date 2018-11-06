@@ -1,21 +1,21 @@
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/dochead.php'); ?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/dochead.php'); ?>
 <link rel="stylesheet" href="/en/assets/css/sub.css">
 <link rel="stylesheet" href="/en/assets/css/abroad_consulting.css">
 
 </head>
 <body class="sub abroad-consulting">
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); ?>
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/nav.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/header.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/nav.php'); ?>
     <!-- Page Header -->
     <div class="page-header">
         <div class="container">
             <ul class="page-list">
-                <li><a href="/en/abroad_consulting/proposal.php">해외 제안서 개발 컨설팅<span></span></a></li>
-                <li><a href="/en/abroad_consulting/competition_pt.php">해외 수주 PT 컨설팅<span></span></a></li>
-                <li class="active"><a href="/en/abroad_consulting/strategy.php">해외 특화<span></span></a></li>
+                <li><a href="/en/abroad_consulting/proposal.php">Consulting for development of international proposal<span></span></a></li>
+                <li><a href="/en/abroad_consulting/competition_pt.php">overseas orders PT consulting<span></span></a></li>
+                <li class="active"><a href="/en/abroad_consulting/strategy.php">International specialization<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>해외 특화</h2>
+                <h2>International specialization</h2>
             </div>
         </div>
     </div>
@@ -29,11 +29,11 @@
                     바이어 발굴
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="sub-nav-menu">
-                    <li class="space"><a href="/en/abroad_consulting/strategy.php">시장진출전략<br class="visible-sm"> 개발</a></li>
-                    <li><a href="/en/abroad_consulting/world_class.php">월드 클래스 300</a></li>
-                    <li><a href="/en/abroad_consulting/competency.php">역량 기술서 개발</a></li>
-                    <li class="active"><a href="/en/abroad_consulting/bio.php">바이어 발굴</a></li>
-                    <li class="space"><a href="/en/abroad_consulting/global_package.php">글로벌 세일즈<br class="visible-sm"> 패키지</a></li>
+                    <li class="space"><a href="/en/abroad_consulting/strategy.php">market advance strategy consulting</a></li>
+                    <li class="space"><a href="/en/abroad_consulting/world_class.php">consulting to be designated as world-class 300 companies</a></li>
+                    <li><a href="/en/abroad_consulting/competency.php">capability statement consulting</a></li>
+                    <!--<li class="active"><a href="/en/abroad_consulting/bio.php">바이어 발굴</a></li>-->
+                    <li><a href="/en/abroad_consulting/global_package.php">Global Sales Packages</a></li>
                     <li><a href="/en/abroad_consulting/mdb_package.php">MDB Packages</a></li>
                 </ul>
             </div>
@@ -53,7 +53,7 @@
         <article class="expectation">
             <div class="container">
                 <div class="article-header">
-                    <h4>기대효과</h4>
+                    <h4>Expected results</h4>
                 </div>
                 <div class="article-content">
                     <ol class="square-list">
@@ -88,11 +88,11 @@
         <article class="process">
             <div class="container">
                 <div class="article-header">
-                    <h4>컨설팅 개요 및 프로세스</h4>
+                    <h4>Outline of consulting and procedure</h4>
                     <ul class="dot-list">
                         <li>일정 : 2개월</li>
                         <li>분량/과업범위: 잠재 바이어 및 진성 바이어 리스트 제공</li>
-                        <li>프로세스</li>
+                        <li>Procedure</li>
                     </ul>
                 </div>
                 <div class="article-content">
@@ -126,11 +126,11 @@
                         </figcaption>
                     </figure>
                 </div>
-                <p class="note">그래픽 디자인은 쉬플리코리아의 자회사인 <i>NON DESIGN</i> 에서 진행하며, 인쇄/제작은 비밀인가를 받은 협력 인쇄소를 통해 진행합니다.</p>
+                <p class="note">Graphic design is performed by <i>NON DESIGN</i>, a subsidiary of Shipley  Korea , and Print/Production is done by a subcontractor that has certified for treatment of confidential materials. </p>
                 <div class="tab-panel">
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-1" aria-expanded="false" aria-controls="collapse-consulting-1">
-                            컨설팅 문의하기
+                            Consulting inquiry
                         </a>
                         <div class="collapse" id="collapse-consulting-1">
                             <div class="well">
@@ -140,13 +140,13 @@
                                             <img src="/en/assets/images/abroad_consulting/img_inquire.gif" alt="">
                                         </figure>
                                         <p>
-                                            컨설팅 문의를 직접 하시고자 하시는 분들을 위해 1:1 문의를 통해 자세한 답변을 드리고 있습니다.
+                                            If you would like to contact us directly, please contact us at 1 : 1
                                         </p>
                                         <dl>
-                                            <dt>김준연 팀장</dt>
+                                            <dt>Joon Yeon Kim, Manager</dt>
                                             <dd>
                                                 <ul>
-                                                    <li><i class="icon-phone"></i>010-9903-9386</li>
+                                                    <li><i class="icon-phone"></i> 02-862-8450</li>
                                                     <li><i class="icon-mail"></i><a href="mailto:jamie@shipleywins.co.kr">jamie@shipleywins.co.kr</a></li>
                                                 </ul>
                                             </dd>
@@ -159,7 +159,7 @@
                     <!--
                     <div class="consulting-panel">
                         <a class="btn btn-primary collapsed" role="button" data-toggle="collapse" href="#collapse-consulting-2" aria-expanded="false" aria-controls="collapse-consulting-2">
-                            성공사례 보기
+                            Customer message
                         </a>
                         <div class="collapse" id="collapse-consulting-2">
                             <div class="well">
@@ -189,7 +189,7 @@
         </div>
     </main>
     <!-- //Content End -->
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>
-    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/docfoot.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/footer.php'); ?>
+    <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/docfoot.php'); ?>
 </body>
 </html>

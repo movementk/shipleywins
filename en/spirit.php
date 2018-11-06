@@ -1,6 +1,6 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/en/inc/dochead.php'); ?>
-<link rel="stylesheet" href="/assets/css/sub.css">
-<link rel="stylesheet" href="/assets/css/spirit.css">
+<link rel="stylesheet" href="/en/assets/css/sub.css">
+<link rel="stylesheet" href="/en/assets/css/spirit.css">
 
 </head>
 <body class="sub spirit">
@@ -22,7 +22,7 @@
                 <div class="section-header">
                     <h3>
                         <img src="/en/assets/images/spirit/img_logo.jpg" alt="logo">
-                        세계 NO.1 컨설팅 전문기업
+                        World NO.1 Consulting company
                     </h3>
                 </div>
                 <article class="shepley-target">
@@ -32,14 +32,14 @@
                                 <div class="col-xs-12 col-md-4">
                                     <div class="list-header">
                                         <dl>
-                                            <dt>Misseion</dt>
-                                            <dd>why Shipley exist</dd>
+                                            <dt>Mission</dt>
+                                            <dd>Why Shippley exist</dd>
                                         </dl>
                                     </div>
                                 </div>
                                 <div class="col-xs-12 col-md-8">
                                     <div class="details">
-                                        <strong>건승, 고객의 건강한<br class="visible-xs"> 성공을 이끕니다.</strong>
+                                        <strong>healthy customer<br class="visible-xs"> an advantage of success</strong>
                                         <p>Leading your sucess through competitive winning</p>
                                     </div>
                                 </div>
@@ -49,7 +49,7 @@
                                     <div class="list-header">
                                         <dl>
                                             <dt>Vision</dt>
-                                            <dd>Long-term and specific goals<br>that we aim to achieve</dd>
+                                            <dd>Long-term and specific goals that we aim to achieve</dd>
                                         </dl>
                                     </div>
                                 </div>
@@ -96,15 +96,15 @@
                                         <ul class="row point">
                                             <li class="col-xs-12 col-md-4">
                                                 <strong>Pride</strong>
-                                                <p>Pride in my work and<br class="hidden-xs hidden-sm"> company</p>
+                                                <p>Pride in my work and company</p>
                                             </li>
                                             <li class="col-xs-12 col-md-4">
                                                 <strong>Change and Challenge</strong>
-                                                <p>Continuius learning<br class="hidden-xs hidden-sm"> and endles attempts</p>
+                                                <p>Continuius learning and endles attempts</p>
                                             </li>
                                             <li class="col-xs-12 col-md-4">
                                                 <strong>Leadership</strong>
-                                                <p>Active involvement in my<br class="hidden-xs hidden-sm"> life, work, and coworkers</p>
+                                                <p>Active involvement in my life, work, and coworkers</p>
                                             </li>
                                         </ul>
                                     </div>
@@ -145,30 +145,30 @@
                         </ol>
                     </div>
                 </article>
-                <!--article class="promise">
+                <!--<article class="promise">
                     <div class="container">
                         <ul class="row">
                             <li class="col-xs-12 col-sm-4">
                                 <figure>
                                     <img src="/en/assets/images/spirit/img_promise01.png" class="img-responsive" alt="">
-                                    <figcaption>Shipley is the equation for victory. Shipley obtains clients’ victory via strategies and its contents—not by bribes nor pricing!</figcaption>
+                                    <figcaption>쉬플리는 승리를 부르는 공식이며, 쉬플리는 고객이 뒷돈이나 가격이 아닌, 전략과 내용을 통해 승리하도록 만든다!</figcaption>
                                 </figure>
                             </li>
                             <li class="col-xs-12 col-sm-4">
                                 <figure>
                                     <img src="/en/assets/images/spirit/img_promise02.png" class="img-responsive" alt="">
-                                    <figcaption>We suggest successful role model that is built from honesty, competitiveness, and hard work based on specializations specific to small and medium sized businesses!</figcaption>
+                                    <figcaption>중소 전문 기업이 전문성을 기반으로 하여, 정직하고, 치열하고, 제대로 일해서 성공하는 롤모델을 제시한다!</figcaption>
                                 </figure>
                             </li>
                             <li class="col-xs-12 col-sm-4">
                                 <figure>
                                     <img src="/en/assets/images/spirit/img_promise03.png" class="img-responsive" alt="">
-                                    <figcaption>We will establish healthier and happier society via spreading Shipley’s organizational culture and system, also known as “Shipley Spirit,” to other organizations!</figcaption>
+                                    <figcaption>쉬플리 스피릿으로 통칭되는 쉬플리의 조직 문화와 시스템을 타조직에 전파하여 우리 사회를 더 건강하고 행복하게 만든다!</figcaption>
                                 </figure>
                             </li>
                         </ul>
                     </div>
-                </article-->
+                </article>-->
                 <article class="contents-directory">
                     <div class="container">
                         <ul>
@@ -191,7 +191,7 @@
                                             </li>
                                             <li>
                                                 <span>3</span>
-                                                Sernag (Serve and nag. Exchange ideas and giving feedbacks between members in  regards to personal problems and vision.) 
+                                                Sernag (Serve and nag. Exchange ideas and giving feedbacks between members in regards to personal problems and vision.)
                                             </li>
                                         </ol>
                                     </div>
@@ -270,7 +270,7 @@
                                             </li>
                                             <li>
                                                 <span>2</span>
-                                                Contingency plan (Series of plans to prepare for stagnancy) 
+                                                Contingency plan (Series of plans to prepare for stagnancy)
                                             </li>
                                         </ol>
                                     </div>
@@ -287,7 +287,7 @@
                                         <ol>
                                             <li>
                                                 <span>1</span>
-                                                Implementation of lenient working schedule (various working conditions based on member’s situation) 
+                                                Implementation of lenient working schedule (various working conditions based on member’s situation)
                                             </li>
                                             <li>
                                                 <span>2</span>
@@ -312,7 +312,7 @@
                                         <ol>
                                             <li>
                                                 <span>1</span>
-                                                Dashboard (Transparently share business information such as company sales, financial situation, and etc. with the team members) 
+                                                Dashboard (Transparently share business information such as company sales, financial situation, and etc. with the team members)
                                             </li>
                                             <li>
                                                 <span>2</span>
