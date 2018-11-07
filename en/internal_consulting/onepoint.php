@@ -43,29 +43,30 @@
                             <span>1</span>
                             <strong>Proposed Strategy One Point consulting</strong>
                             <p>Strategy workshops can help you develop a strategy that distinguishes you from your competition.</p>
-                            <!--<div class="details-btn">
-                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-1">제안전략 One Point Consulting 상세 보기</a>
-                            </div>-->
+                            <div class="details-btn">
+                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-1">Proposed Strategy One Point consulting</a>
+                            </div>
                         </li>
                         <li>
                             <span>2</span>
                             <strong>Proposal One point consulting</strong>
                             <p>
-                                The Shipley Korea counselors will visit your office after the proposal review and guide the areas to be corrected. Identify the issues with existing proposals and improve the structure and content of proposals.
+                                The Shipley Korea counselors will visit your office after the proposal review and guide the areas to be corrected. <br>
+                                Identify the issues with existing proposals and improve the structure and content of proposals.
                             </p>
-                            <!--<div class="details-btn">
-                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-2">제안서 One Point Consulting 상세보기</a>
-                            </div>-->
+                            <div class="details-btn">
+                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-2">Proposal One point one point consulting</a>
+                            </div>
                         </li>
                         <li>
                             <span>3</span>
                             <strong>PT one-point consulting</strong>
                             <p>
-                                You will be able to develop effective PTs by extracting the main messages of the story, table of contents, and from the slides of the presentation.
+                                You will be able to develop effective PTs by extracting the main messages of the story,<br> table of contents, and from the slides of the presentation.
                             </p>
-                            <!--<div class="details-btn">
-                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-3">PT One Point Consulting 상세보기</a>
-                            </div>-->
+                            <div class="details-btn">
+                                <a href="#" class="btn btn-lg btn-blue" role="button" data-toggle="modal" data-target="#consulting-3">PT one-point consulting</a>
+                            </div>
                         </li>
                     </ol>
                 </div>

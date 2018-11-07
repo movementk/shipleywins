@@ -18,7 +18,7 @@
                 <li><a href="/en/internal_consulting/business_diagnosis.php">Diagnosis consulting<span></span></a></li>
             </ul>
             <div class="page-summary">
-                <h2>Domestic orders PT consulting</h2>
+                <h2>Consultation of Proposal Development</h2>
             </div>
         </div>
     </div>

@@ -614,7 +614,7 @@ article.process .dot-list {
 .onepoint .expectation .article-content .square-list li .details-btn {
   margin-top: 25px; }
   .onepoint .expectation .article-content .square-list li .details-btn .btn-blue {
-    width: 235px;
+    width: 100%;
     font-size: 14px;
     color: #fff;
     text-align: center;
@@ -673,7 +673,7 @@ article.process .dot-list {
     text-align: left; }
     .onepoint .expectation .article-content .details-btn .btn-blue {
       font-size: 13px !important;
-      width: 210px !important; } }
+      width: 260px !important; } }
 @media (min-width: 1200px) {
   .onepoint .expectation .square-list li {
     /*&:nth-of-type(1) {
