@@ -25,10 +25,10 @@
                 </ul>
             </li>
             <li>
-                <a href="#">Domestic order consulting<span></span></a>
+                <a href="#">Consulting for Domestic competitive<span></span></a>
                 <ul>
                     <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development</a></li>
-                    <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation</a></li>
+                    <li><a href="/en/internal_consulting/competition_pt.php">Consulting for Domestic competitive PT</a></li>
                     <li><a href="/en/internal_consulting/onepoint.php">One Point Consulting</a></li>
                     <li><a href="/en/internal_consulting/orders_process.php">Consulting to construct an order process</a></li>
                     <li><a href="/en/internal_consulting/business_consulting.php">Sales consulting</a></li>

@@ -54,13 +54,13 @@
                         </ul>
                     </li>
                     <li class="col-xs-12 col-sm-4 col-lg-3">
-                        <h3>domestic order consulting</h3>
+                        <h3>Consulting for Domestic competitive</h3>
                         <ul>
                             <li><a href="/en/internal_consulting/proposal.php">Consultation of Proposal Development</a></li>
                             <li>
-                                <a href="/en/internal_consulting/competition_pt.php">Domestic orders PT consulting</a>
+                                <a href="/en/internal_consulting/competition_pt.php">Consulting for Domestic competitive</a>
                                 <ul>
-                                    <li><a href="/en/internal_consulting/competition_pt.php">Bidding / Pitching Consultation</a></li>
+                                    <li><a href="/en/internal_consulting/competition_pt.php">Consulting for Domestic competitive PT</a></li>
                                     <li><a href="/en/internal_consulting/introduction_pt.php">Company Presentation Consultation</a></li>
                                 </ul>
                             </li>
